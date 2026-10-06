@@ -1,0 +1,216 @@
+id,category,lang,text,expected,alternatives,note
+Z001,zh-基础,zh,你好,ni hao,,README 示例
+Z002,zh-基础,zh,我是油库里,wo shi ゆっくり,,README 示例
+Z003,zh-基础,zh,大家好,da jia hao,,
+Z004,zh-基础,zh,谢谢,xie xie,,
+Z005,zh-基础,zh,再见,zai jian,,
+Z006,zh-基础,zh,早上好,zao shang hao,,
+Z007,zh-基础,zh,晚安,wan an,,
+Z008,zh-基础,zh,你好，世界！,ni hao 、 shi jie 。,,标点转停顿
+Z009,zh-基础,zh,今天天气怎么样？,jin tian tian qi zen me yang ？,,
+Z010,zh-基础,zh,我们一起玩游戏吧,wo men yi qi wan you xi ba,,
+Z011,zh-基础,zh,欢迎来到直播间,huan ying lai dao zhi bo jian,,
+Z012,zh-基础,zh,感谢老板的礼物,gan xie lao ban de li wu,,
+Z013,zh-基础,zh,这把我们赢了,zhe ba wo men ying le,,
+Z014,zh-基础,zh,快点过来帮忙,kuai dian guo lai bang mang,,
+Z015,zh-基础,zh,小心后面有人,xiao xin hou mian you ren,,
+Z016,zh-基础,zh,我先下线了,wo xian xia xian le,,
+Z017,zh-基础,zh,听得见吗？,ting de jian ma ？,,
+Z018,zh-基础,zh,麦克风有点问题,mai ke feng you dian wen ti,,
+Z019,zh-基础,zh,等我一下,deng wo yi xia,,
+Z020,zh-基础,zh,不好意思,bu hao yi si,,
+Z021,zh-基础,zh,没关系,mei guan xi,,
+Z022,zh-基础,zh,真的吗？,zhen de ma ？,,
+Z023,zh-基础,zh,太厉害了！,tai li hai le 。,,
+Z024,zh-基础,zh,我饿了，去吃饭,wo e le 、 qu chi fan,,
+Z025,zh-基础,zh,明天见,ming tian jian,,
+Z026,zh-基础,zh,你在干什么？,ni zai gan shen me ？,,
+Z027,zh-基础,zh,这个游戏很好玩,zhe ge you xi hen hao wan,,
+Z028,zh-基础,zh,大家晚上好,da jia wan shang hao,,
+Z029,zh-基础,zh,请多多关照,qing duo duo guan zhao,,
+Z030,zh-基础,zh,我听不清楚,wo ting bu qing chu,,
+Z031,zh-基础,zh,声音太小了,sheng yin tai xiao le,,
+Z032,zh-基础,zh,点个关注,dian ge guan zhu,,
+Z033,zh-基础,zh,打开摄像头,da kai she xiang tou,,
+Z034,zh-基础,zh,网络有点卡,wang luo you dian ka,,
+Z035,zh-基础,zh,准备好了吗？,zhun bei hao le ma ？,,
+Z036,zh-基础,zh,冲啊！,chong a 。,,
+Z037,zh-基础,zh,我们出发吧,wo men chu fa ba,,
+Z038,zh-基础,zh,生日快乐,sheng ri kuai le,,
+Z039,zh-基础,zh,加油,jia you,,
+Z040,zh-基础,zh,晚饭吃什么,wan fan chi shen me,,
+Z041,zh-难点,zh,重庆,chong qing,,多音字
+Z042,zh-难点,zh,银行,yin hang,,多音字
+Z043,zh-难点,zh,行走,xing zou,,多音字
+Z044,zh-难点,zh,长大,zhang da,,多音字
+Z045,zh-难点,zh,长城,chang cheng,,多音字
+Z046,zh-难点,zh,音乐,yin yue,,多音字
+Z047,zh-难点,zh,快乐,kuai le,,多音字
+Z048,zh-难点,zh,女人,nv ren,,ü 音节
+Z049,zh-难点,zh,绿色,lv se,,ü 音节
+Z050,zh-难点,zh,略微,lve wei,,ü 音节
+Z051,zh-难点,zh,虐待,nve dai,,ü 音节
+Z052,zh-难点,zh,哪儿,na er,,儿化（分读）
+Z053,zh-难点,zh,一会儿,yi hui er,,儿化（分读）
+Z054,zh-难点,zh,嗯,n,,叹词
+Z055,zh-难点,zh,发嗲,fa dia,,词组语境读音
+Z056,zh-难点,zh,觉得,jue de,,
+Z057,zh-难点,zh,睡觉,shui jiao,,多音字
+Z058,zh-难点,zh,还是,hai shi,,多音字
+Z059,zh-难点,zh,还书,huan shu,,多音字
+Z060,zh-难点,zh,油库里真可爱,ゆっくり zhen ke ai,,FR-G2P-02
+E001,en-高频,en,hello,へろー,,README 示例
+E002,en-高频,en,hello world,へろー わーるど,,README 示例
+E003,en-高频,en,thank you,さんきゅー,さんく ゆー,
+E004,en-高频,en,good game,ぐっど げーむ,,
+E005,en-高频,en,ok,おーけー,,
+E006,en-高频,en,sorry,そりー,,
+E007,en-高频,en,nice,ないす,,
+E008,en-高频,en,please wait,ぷりーず うぇいと,,
+E009,en-高频,en,let's go,れっつ ごー,,缩约
+E010,en-高频,en,game start,げーむ すたーと,,
+E011,en-高频,en,I love you,あい らぶ ゆー,,
+E012,en-高频,en,see you later,しー ゆー れいたー,,
+E013,en-高频,en,good morning,ぐっど もーにんぐ,,
+E014,en-高频,en,happy birthday,はっぴー ばーすでー,はっぴー ばーすでい,
+E015,en-高频,en,my friend,まい ふれんど,,
+E016,en-高频,en,very good,べりー ぐっど,,
+E017,en-高频,en,help me,へるぷ みー,,
+E018,en-高频,en,yes,いえす,,
+E019,en-高频,en,no problem,のー ぷろぶれむ,,
+E020,en-高频,en,Discord,でぃすこーど,,
+A001,en-缩写,en,CPU,しー ぴー ゆー,,README 示例
+A002,en-缩写,en,GPU,じー ぴー ゆー,,
+A003,en-缩写,en,USB,ゆー えす びー,,含元音
+A004,en-缩写,en,API,えー ぴー あい,,含元音
+A005,en-缩写,en,OBS,おー びー えす,,含元音
+A006,en-缩写,en,HTTP,えいち てぃー てぃー ぴー,えっち てぃー てぃー ぴー,4 字母
+A007,en-缩写,en,PC,ぴー しー,,
+A008,en-缩写,en,AI,えー あい,,
+A009,en-缩写,en,FPS,えふ ぴー えす,,
+A010,en-缩写,en,MVP,えむ ぶい ぴー,,
+A011,en-缩写,en,KFC,けー えふ しー,,
+A012,en-缩写,en,NPC,えぬ ぴー しー,,
+A013,en-缩写,en,BGM,びー じー えむ,,
+A014,en-缩写,en,DIY,でぃー あい わい,,含元音
+A015,en-缩写,en,VR,ぶい あーる,,
+O001,en-词表外,en,video,びでお,,
+O002,en-词表外,en,stream,すとりーむ,,
+O003,en-词表外,en,server,さーばー,,
+O004,en-词表外,en,update,あっぷでーと,,
+O005,en-词表外,en,online,おんらいん,,
+O006,en-词表外,en,message,めっせーじ,,
+O007,en-词表外,en,computer,こんぴゅーたー,,
+O008,en-词表外,en,music,みゅーじっく,,
+O009,en-词表外,en,phone,ふぉん,ふぉーん,
+O010,en-词表外,en,team,ちーむ,,
+O011,en-词表外,en,level,れべる,,
+O012,en-词表外,en,skill,すきる,,
+O013,en-词表外,en,power,ぱわー,,
+O014,en-词表外,en,coffee,こーひー,,
+O015,en-词表外,en,apple,あっぷる,,
+O016,en-词表外,en,banana,ばなな,,
+O017,en-词表外,en,camera,かめら,,
+O018,en-词表外,en,internet,いんたーねっと,,
+O019,en-词表外,en,keyboard,きーぼーど,,
+O020,en-词表外,en,mouse,まうす,,
+J001,ja-句子,ja,ありがとうございます,ありがとうございます,,
+J002,ja-句子,ja,おはようございます,おはようございます,,
+J003,ja-句子,ja,日本語を話します,にほんごをはなします,,
+J004,ja-句子,ja,今日はいい天気ですね,きょうわいいてんきですね,,含助词 は
+J005,ja-句子,ja,東京へ行きます,とうきょうえいきます,,含助词 へ
+J006,ja-句子,ja,ゆっくりしていってね,ゆっくりしていってね,,
+J007,ja-句子,ja,食べる,たべる,,送假名
+J008,ja-句子,ja,行く,いく,,送假名
+J009,ja-句子,ja,見る,みる,,送假名
+J010,ja-句子,ja,書きます,かきます,,送假名
+J011,ja-句子,ja,新しいゲーム,あたらしいげーむ,,
+J012,ja-句子,ja,友達と遊ぶ,ともだちとあそぶ,,
+J013,ja-句子,ja,電車に乗る,でんしゃにのる,,
+J014,ja-句子,ja,少し待ってください,すこしまってください,,
+J015,ja-句子,ja,本当にありがとう,ほんとうにありがとう,,
+J016,ja-句子,ja,人々,ひとびと,,踊り字
+J017,ja-句子,ja,時々,ときどき,,踊り字
+J018,ja-句子,ja,鼻血が出た,はなぢがでた,,ぢ（比较时视同じ）
+J019,ja-句子,ja,近づく,ちかづく,,づ（比较时视同ず）
+J020,ja-句子,ja,気づいた,きづいた,,
+J021,ja-句子,ja,続く,つづく,,
+J022,ja-句子,ja,三ヶ月,さんかげつ,,
+J023,ja-句子,ja,ヴァイオリン,ばいおりん,ゔぁいおりん,
+J024,ja-句子,ja,コンピューター,こんぴゅーたー,,片假名保持
+J025,ja-句子,ja,東京タワー,とうきょうたわー,,
+J026,ja-句子,ja,映画を見に行こう,えいがをみにいこう,,
+J027,ja-句子,ja,何をしていますか？,なにをしていますか？,,
+J028,ja-句子,ja,大丈夫です,だいじょうぶです,,
+J029,ja-句子,ja,お疲れ様でした,おつかれさまでした,,
+J030,ja-句子,ja,よろしくお願いします,よろしくおねがいします,,
+J031,ja-句子,ja,学校に行く,がっこうにいく,,
+J032,ja-句子,ja,水を飲みたい,みずをのみたい,,
+J033,ja-句子,ja,明日は雨です,あしたわあめです,,含助词 は
+J034,ja-句子,ja,猫が好きです,ねこがすきです,,
+J035,ja-句子,ja,今何時ですか？,いまなんじですか？,,
+J036,ja-句子,ja,美味しい,おいしい,,
+J037,ja-句子,ja,一緒に遊ぼう,いっしょにあそぼう,,
+J038,ja-句子,ja,頑張ってください,がんばってください,,
+J039,ja-句子,ja,さようなら,さようなら,,
+J040,ja-句子,ja,また明日,またあした,,
+P001,ja-助词,ja,私は,わたしわ,,BL-08 示例
+P002,ja-助词,ja,これは本です,これわほんです,,
+P003,ja-助词,ja,こんにちは,こんにちわ,,
+P004,ja-助词,ja,こんばんは,こんばんわ,,
+P005,ja-助词,ja,学校へ行く,がっこうえいく,,
+P006,ja-助词,ja,葉,は,,反例：名词
+P007,ja-助词,ja,歯が痛い,はがいたい,,反例：名词
+P008,ja-助词,ja,母は元気です,ははわげんきです,,正反例同句
+P009,ja-助词,ja,はい,はい,,反例
+P010,ja-助词,ja,部屋へ入る,へやえはいる,,正反例同句
+N001,数字,zh,我有25个苹果,wo you er shi wu ge ping guo,,数量
+N002,数字,zh,1000,yi qian,,数量
+N003,数字,zh,10月7日,shi yue qi ri,,日期
+N004,数字,zh,2026年,er ling er liu nian,,年份（逐位读即标准读法）
+N005,数字,zh,3.14,san dian yi si,,小数
+N006,数字,zh,50%,bai fen zhi wu shi,,百分数
+N007,数字,zh,第1名,di yi ming,,序数
+N008,数字,zh,100块,yi bai kuai,,数量
+N009,数字,zh,电话110,dian hua yao yao ling,dian hua yi yi ling,编号（允许逐位）
+N010,数字,zh,12点,shi er dian,,时间
+N011,数字,ja,3,さん,,
+N012,数字,ja,10,じゅう,,
+N013,数字,ja,25,にじゅうご,,
+N014,数字,ja,100,ひゃく,,
+N015,数字,ja,2026年,にせんにじゅうろくねん,,
+N016,数字,ja,3時,さんじ,,
+N017,数字,ja,4月,しがつ,,
+N018,数字,ja,1000円,せんえん,,
+N019,数字,ja,7人,しちにん,ななにん,
+N020,数字,ja,0,ぜろ,れい,
+N021,数字,en,1,わん,,
+N022,数字,en,7,せぶん,,
+N023,数字,en,10,てん,,
+N024,数字,en,25,とぅえんてぃーふぁいぶ,とぅえにーふぁいぶ,
+N025,数字,en,100,はんどれっど,わんはんどれっど,
+N026,数字,en,2026,とぅーさうざんどとぅえんてぃーしっくす,とぅえんてぃーとぅえんてぃーしっくす|つーさうざんどとぅえんてぃーしっくす,年份
+N027,数字,en,3.5,すりーぽいんとふぁいぶ,,
+N028,数字,en,0,ぜろ,,
+N029,数字,en,9,ないん,,
+N030,数字,en,12,とぅえるぶ,,
+M001,混排,zh,我用CPU打游戏,wo yong しー ぴー ゆー da you xi,,
+M002,混排,zh,我在B站看video,wo zai びー zhan kan びでお,,
+M003,混排,zh,Hello，你好,へろー 、 ni hao,,
+M004,混排,zh,ok吧,おーけー ba,,
+M005,混排,zh,这个game很好玩,zhe ge げーむ hen hao wan,,
+M006,混排,zh,我喜欢ゆっくり,wo xi huan ゆっくり,,中日
+M007,混排,zh,今天玩3个小时,jin tian wan san ge xiao shi,,
+M008,混排,zh,打开OBS直播,da kai おー びー えす zhi bo,,
+M009,混排,zh,GG，下一把,じー じー 、 xia yi ba,,
+M010,混排,zh,Discord上见,でぃすこーど shang jian,,
+M011,混排,ja,今日はgameをする,きょうわげーむをする,,
+M012,混排,ja,YouTubeを見る,ゆーちゅーぶをみる,,
+M013,混排,ja,PCが壊れた,ぴーしーがこわれた,,
+M014,混排,ja,3人でプレイ,さんにんでぷれい,,
+M015,混排,ja,hello世界,へろーせかい,,
+M016,混排,en,I like 寿司,あい らいく shou si,,lang=en 时汉字按中文读（FR-G2P-01）
+M017,混排,en,I have 3 apples,あい はぶ すりー あっぷるず,,
+M018,混排,en,hello 你好,へろー ni hao,,
+M019,混排,en,my PC is ok,まい ぴー しー いず おーけー,,
+M020,混排,en,see you 明天,しー ゆー ming tian,,
