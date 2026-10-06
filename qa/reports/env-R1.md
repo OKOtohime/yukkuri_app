@@ -20,7 +20,7 @@
 | sensevoice/model.int8.onnx | c71f0ce00bec95b07744e116345e33d8cbbe08cef896382cf907bf4b51a2cd51 |
 | sensevoice/tokens.txt | f449eb28dc567533d7fa59be34e2abca8784f771850c78a47fb731a31429a1dc |
 | Vosk | model_zh、model_ja、model_en（官方 small 模型） |
-| AquesTalk | **未就绪**（等待官方评价版包，见 WP-01 记录） |
+| AquesTalk | 官方评价版 aqtk1_lnx_200，9 种声线，位于 `libs/aquestalk/lib64/<voice>/` |
 
 `setup_models.py --check`：VAD、SenseVoice、Vosk ja/en 就绪；Vosk zh 显示"未安装"（见 WP-01 记录的预备发现 P-01）。
 
