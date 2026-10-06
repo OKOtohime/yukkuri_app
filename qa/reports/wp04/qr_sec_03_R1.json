@@ -1,0 +1,241 @@
+{
+ "S-01_dotdot": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/evil.so"
+  ]
+ },
+ "S-02_absolute": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/evil.so",
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/evil.so"
+  ]
+ },
+ "S-03_lib64_dotdot": {
+  "outside": [
+   "s1/s2/s3/s4/evil.so"
+  ],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/evil.so"
+  ]
+ },
+ "S-04_lib64_voice_dotdot": {
+  "outside": [
+   "s1/s2/s3/s4/evil.so"
+  ],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/evil.so"
+  ]
+ },
+ "S-05_subdir_dotdot": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/evil.so"
+  ]
+ },
+ "S-06a_backslash": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/pkg\\lib64\\..\\..\\..\\..\\evil.dll"
+  ]
+ },
+ "S-06b_lib64_backslash": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/..\\..\\..\\..\\evil.dll"
+  ]
+ },
+ "S-08_tar_absolute": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/evil.so",
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/evil.so"
+  ]
+ },
+ "S-08_tar_dotdot": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/evil.so"
+  ]
+ },
+ "S-08_tar_lib64_dotdot": {
+  "outside": [
+   "s1/s2/s3/s4/evil.so"
+  ],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/evil.so"
+  ]
+ },
+ "S-08_tar_lib64_voice_dotdot": {
+  "outside": [
+   "s1/s2/s3/s4/evil.so"
+  ],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/evil.so"
+  ]
+ },
+ "S-08_tar_subdir_dotdot": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/evil.so"
+  ]
+ },
+ "S-09_tar_symlink_absolute": {
+  "outside": [],
+  "returncode": 1,
+  "tail": [
+   "  File \"/home/xcosmos/.local/share/uv/python/cpython-3.12.13-linux-x86_64-gnu/lib/python3.12/tarfile.py\", line 2856, in _find_link_target",
+   "    raise KeyError(\"linkname %r not found\" % linkname)",
+   "KeyError: \"linkname 'pkg/lib64/f1//tmp/pytest-of-xcosmos/pytest-16/test_qr_sec_03_tar_symlink_mem0/sbx/outside/secret.txt' not found\""
+  ],
+  "traceback": true,
+  "written": []
+ },
+ "S-09_tar_symlink_relative_outside": {
+  "outside": [],
+  "returncode": 1,
+  "tail": [
+   "  File \"/home/xcosmos/.local/share/uv/python/cpython-3.12.13-linux-x86_64-gnu/lib/python3.12/tarfile.py\", line 2856, in _find_link_target",
+   "    raise KeyError(\"linkname %r not found\" % linkname)",
+   "KeyError: \"linkname 'pkg/lib64/f1/../../../../../../outside/secret.txt' not found\""
+  ],
+  "traceback": true,
+  "written": []
+ },
+ "S-10_tar_symlink_dir": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/f9/libAquesTalk.so"
+  ]
+ },
+ "S-11_tar_hardlink": {
+  "outside": [],
+  "returncode": 1,
+  "tail": [
+   "  File \"/home/xcosmos/.local/share/uv/python/cpython-3.12.13-linux-x86_64-gnu/lib/python3.12/tarfile.py\", line 2856, in _find_link_target",
+   "    raise KeyError(\"linkname %r not found\" % linkname)",
+   "KeyError: \"linkname '/tmp/pytest-of-xcosmos/pytest-16/test_qr_sec_03_tar_hardlink_me0/sbx/outside/secret.txt' not found\""
+  ],
+  "traceback": true,
+  "written": []
+ },
+ "S-12_dir_symlinks": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/f1/libAquesTalk.so",
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/f2/libAquesTalk.so"
+  ]
+ },
+ "S-13_zip_symlink_entry": {
+  "outside": [],
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "traceback": false,
+  "written": [
+   "s1/s2/s3/s4/data/libs/aquestalk/lib64/f1/libAquesTalk.so"
+  ]
+ }
+}

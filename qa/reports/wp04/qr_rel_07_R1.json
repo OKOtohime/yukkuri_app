@@ -1,0 +1,140 @@
+{
+ "F7_enospc_download|sensevoice": {
+  "after_fault": {
+   "files": [
+    "sensevoice.tar.bz2",
+    "silero_vad.onnx"
+   ],
+   "intact": false,
+   "loader": false,
+   "status": false
+  },
+  "after_retry": {
+   "files": [
+    "sensevoice.tar.bz2",
+    "sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2024-07-17",
+    "silero_vad.onnx"
+   ],
+   "intact": false,
+   "loader": false,
+   "status": false
+  },
+  "done_lines": [],
+  "error_lines": [
+   "  SenseVoice: [███████░░░░░░░░░░░░░]  38% (  1.0MB /   2.6MB)[错误] 下载 SenseVoice 失败: [Errno 28] No space left on device"
+  ],
+  "no_misjudge": true,
+  "prompt": true,
+  "retry": false,
+  "tail": "Errno 28] No space left on device\n\n================ 当前模型就绪状态 ================\n  Silero-VAD 端点检测:    [已就绪]\n  SenseVoice 语音识别:    [未安装]\n  Vosk 中文模型 (zh):     [未安装]\n  Vosk 日文模型 (ja):     [未安装]\n  Vosk 英文模型 (en):     [未安装]\n  AquesTalk 声线动态库:   [未安装]\n==================================================\n\n模型配置流程完成！可直接运行应用：\n  GUI 界面: python -m yukkuri.cli --gui\n  CLI 模式: python -m yukkuri.cli --lang zh\nrc=0\n"
+ },
+ "F7_enospc_download|vad": {
+  "after_fault": {
+   "files": [
+    "silero_vad.onnx"
+   ],
+   "intact": false,
+   "loader": true,
+   "status": true
+  },
+  "after_retry": {
+   "files": [
+    "silero_vad.onnx"
+   ],
+   "intact": false,
+   "loader": true,
+   "status": true
+  },
+  "done_lines": [],
+  "error_lines": [
+   "  Silero-VAD: [██████████░░░░░░░░░░]  54% (  1.0MB /   1.8MB)[错误] 下载 Silero-VAD 失败: [Errno 28] No space left on device"
+  ],
+  "no_misjudge": false,
+  "prompt": true,
+  "retry": false,
+  "tail": "Errno 28] No space left on device\n\n================ 当前模型就绪状态 ================\n  Silero-VAD 端点检测:    [已就绪]\n  SenseVoice 语音识别:    [未安装]\n  Vosk 中文模型 (zh):     [未安装]\n  Vosk 日文模型 (ja):     [未安装]\n  Vosk 英文模型 (en):     [未安装]\n  AquesTalk 声线动态库:   [未安装]\n==================================================\n\n模型配置流程完成！可直接运行应用：\n  GUI 界面: python -m yukkuri.cli --gui\n  CLI 模式: python -m yukkuri.cli --lang zh\nrc=0\n"
+ },
+ "F7_enospc_download|vosk-en": {
+  "after_fault": {
+   "files": [
+    "vosk_en.zip"
+   ],
+   "intact": false,
+   "loader": false,
+   "status": false
+  },
+  "after_retry": {
+   "files": [
+    "model_en"
+   ],
+   "intact": true,
+   "loader": true,
+   "status": true
+  },
+  "done_lines": [],
+  "error_lines": [
+   "  Vosk-en: [██████████░░░░░░░░░░]  53% (  0.5MB /   0.9MB)[错误] 下载 Vosk [en] 失败: [Errno 28] No space left on device"
+  ],
+  "no_misjudge": true,
+  "prompt": true,
+  "retry": true,
+  "tail": "Errno 28] No space left on device\n\n================ 当前模型就绪状态 ================\n  Silero-VAD 端点检测:    [未安装]\n  SenseVoice 语音识别:    [未安装]\n  Vosk 中文模型 (zh):     [未安装]\n  Vosk 日文模型 (ja):     [未安装]\n  Vosk 英文模型 (en):     [未安装]\n  AquesTalk 声线动态库:   [未安装]\n==================================================\n\n模型配置流程完成！可直接运行应用：\n  GUI 界面: python -m yukkuri.cli --gui\n  CLI 模式: python -m yukkuri.cli --lang zh\nrc=0\n"
+ },
+ "F7_enospc_extract|sensevoice": {
+  "after_fault": {
+   "files": [
+    "sensevoice.tar.bz2",
+    "sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2024-07-17",
+    "silero_vad.onnx"
+   ],
+   "intact": false,
+   "loader": true,
+   "status": true
+  },
+  "after_retry": {
+   "files": [
+    "sensevoice.tar.bz2",
+    "sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2024-07-17",
+    "silero_vad.onnx"
+   ],
+   "intact": false,
+   "loader": true,
+   "status": true
+  },
+  "done_lines": [],
+  "error_lines": [
+   "[错误] 下载 SenseVoice 失败: [Errno 28] No space left on device"
+  ],
+  "no_misjudge": false,
+  "prompt": true,
+  "retry": false,
+  "tail": "Errno 28] No space left on device\n\n================ 当前模型就绪状态 ================\n  Silero-VAD 端点检测:    [已就绪]\n  SenseVoice 语音识别:    [已就绪]\n  Vosk 中文模型 (zh):     [未安装]\n  Vosk 日文模型 (ja):     [未安装]\n  Vosk 英文模型 (en):     [未安装]\n  AquesTalk 声线动态库:   [未安装]\n==================================================\n\n模型配置流程完成！可直接运行应用：\n  GUI 界面: python -m yukkuri.cli --gui\n  CLI 模式: python -m yukkuri.cli --lang zh\nrc=0\n"
+ },
+ "F7_enospc_extract|vosk-en": {
+  "after_fault": {
+   "files": [
+    "vosk-model-small-en-us-0.15",
+    "vosk_en.zip"
+   ],
+   "intact": false,
+   "loader": false,
+   "status": false
+  },
+  "after_retry": {
+   "files": [
+    "model_en"
+   ],
+   "intact": true,
+   "loader": true,
+   "status": true
+  },
+  "done_lines": [],
+  "error_lines": [
+   "[错误] 下载 Vosk [en] 失败: [Errno 28] No space left on device"
+  ],
+  "no_misjudge": true,
+  "prompt": true,
+  "retry": true,
+  "tail": "Errno 28] No space left on device\n\n================ 当前模型就绪状态 ================\n  Silero-VAD 端点检测:    [未安装]\n  SenseVoice 语音识别:    [未安装]\n  Vosk 中文模型 (zh):     [未安装]\n  Vosk 日文模型 (ja):     [未安装]\n  Vosk 英文模型 (en):     [未安装]\n  AquesTalk 声线动态库:   [未安装]\n==================================================\n\n模型配置流程完成！可直接运行应用：\n  GUI 界面: python -m yukkuri.cli --gui\n  CLI 模式: python -m yukkuri.cli --lang zh\nrc=0\n"
+ }
+}

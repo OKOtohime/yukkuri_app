@@ -1,0 +1,319 @@
+{
+ "autodetect:Desktop_dir": {
+  "found_voices": 0,
+  "judged": false
+ },
+ "autodetect:Desktop_zip": {
+  "found_voices": 0,
+  "judged": false
+ },
+ "autodetect:Downloads_dir": {
+  "found_voices": 0,
+  "judged": false
+ },
+ "autodetect:Downloads_zip": {
+  "found_voices": 9,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "autodetect:下载_zip": {
+  "found_voices": 9,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "existing:corrupt_zip": {
+  "load_failed": {},
+  "returncode": 0,
+  "second_tail": [
+   "    raise BadZipFile(\"File is not a zip file\")",
+   "zipfile.BadZipFile: File is not a zip file"
+  ],
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "existing:empty_dir": {
+  "load_failed": {},
+  "returncode": 0,
+  "second_tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "existing:rar": {
+  "load_failed": {},
+  "returncode": 0,
+  "second_tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:dir_lib64": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:dir_parent": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:dir_top": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:tar.bz2": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:tar.gz": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:tgz": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "format:zip": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ },
+ "invalid:corrupt_tgz": {
+  "returncode": 1,
+  "tail": [
+   "- method bz2: ReadError('not a bzip2 file')",
+   "- method xz: ReadError('not an lzma file')",
+   "- method tar: ReadError('invalid header')"
+  ]
+ },
+ "invalid:corrupt_zip": {
+  "returncode": 1,
+  "tail": [
+   "  File \"/home/xcosmos/.local/share/uv/python/cpython-3.12.13-linux-x86_64-gnu/lib/python3.12/zipfile/__init__.py\", line 1437, in _RealGetContents",
+   "    raise BadZipFile(\"File is not a zip file\")",
+   "zipfile.BadZipFile: File is not a zip file"
+  ]
+ },
+ "invalid:empty_dir": {
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "invalid:empty_zip": {
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "invalid:missing": {
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "invalid:rar": {
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "invalid:zip_without_libs": {
+  "returncode": 0,
+  "tail": [
+   "模型配置流程完成！可直接运行应用：",
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ]
+ },
+ "native:tar czf": {
+  "f1_member_order": [
+   "aqtk1_lnx/lib64/f1/libAquesTalk.so",
+   "aqtk1_lnx/lib32/f1/libAquesTalk.so"
+  ],
+  "load_failed": {
+   "dvd": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/dvd/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05",
+   "f1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/f1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "f2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/f2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "f3": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/f3/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "imd1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/imd1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_0",
+   "jgr": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/jgr/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05",
+   "m1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/m1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "m2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/m2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "r1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/tar_czf/data/libs/aquestalk/lib64/r1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_"
+  },
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": [
+   "dvd",
+   "f1",
+   "f2",
+   "f3",
+   "imd1",
+   "jgr",
+   "m1",
+   "m2",
+   "r1"
+  ]
+ },
+ "native:zip -r": {
+  "f1_member_order": [
+   "aqtk1_lnx/lib64/f1/libAquesTalk.so",
+   "aqtk1_lnx/lib32/f1/libAquesTalk.so"
+  ],
+  "load_failed": {
+   "dvd": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/dvd/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "f1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/f1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_r",
+   "f2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/f2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_r",
+   "f3": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/f3/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_r",
+   "imd1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/imd1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05",
+   "jgr": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/jgr/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_",
+   "m1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/m1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_r",
+   "m2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/m2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_r",
+   "r1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_repacked_by_nat0/zip_-r/data/libs/aquestalk/lib64/r1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_r"
+  },
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": [
+   "dvd",
+   "f1",
+   "f2",
+   "f3",
+   "imd1",
+   "jgr",
+   "m1",
+   "m2",
+   "r1"
+  ]
+ },
+ "order:tar.gz": {
+  "load_failed": {
+   "dvd": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/dvd/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_",
+   "f1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/f1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "f2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/f2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "f3": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/f3/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "imd1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/imd1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member",
+   "jgr": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/jgr/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_",
+   "m1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/m1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "m2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/m2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "r1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in1/data/libs/aquestalk/lib64/r1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o"
+  },
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": [
+   "dvd",
+   "f1",
+   "f2",
+   "f3",
+   "imd1",
+   "jgr",
+   "m1",
+   "m2",
+   "r1"
+  ]
+ },
+ "order:zip": {
+  "load_failed": {
+   "dvd": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/dvd/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_",
+   "f1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/f1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "f2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/f2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "f3": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/f3/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "imd1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/imd1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member",
+   "jgr": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/jgr/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_",
+   "m1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/m1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "m2": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/m2/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o",
+   "r1": "RuntimeError: 无法加载 AquesTalk 动态库 /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_order_in0/data/libs/aquestalk/lib64/r1/libAquesTalk.so: /tmp/pytest-of-xcosmos/pytest-17/test_fr_mdl_05_member_o"
+  },
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": [
+   "dvd",
+   "f1",
+   "f2",
+   "f3",
+   "imd1",
+   "jgr",
+   "m1",
+   "m2",
+   "r1"
+  ]
+ },
+ "reimport:1": {
+  "load_failed": {},
+  "returncode": 0,
+  "tail": [
+   "  GUI 界面: python -m yukkuri.cli --gui",
+   "  CLI 模式: python -m yukkuri.cli --lang zh"
+  ],
+  "wrong_or_missing": []
+ }
+}
