@@ -1,0 +1,1108 @@
+{
+ "total": 215,
+ "match": 120,
+ "rate": 0.5581,
+ "threshold": 0.95,
+ "per_category": {
+  "zh-基础": {
+   "match": 40,
+   "total": 40,
+   "rate": 1.0
+  },
+  "zh-难点": {
+   "match": 19,
+   "total": 20,
+   "rate": 0.95
+  },
+  "en-高频": {
+   "match": 14,
+   "total": 20,
+   "rate": 0.7
+  },
+  "en-缩写": {
+   "match": 10,
+   "total": 15,
+   "rate": 0.6667
+  },
+  "en-词表外": {
+   "match": 1,
+   "total": 20,
+   "rate": 0.05
+  },
+  "ja-句子": {
+   "match": 13,
+   "total": 40,
+   "rate": 0.325
+  },
+  "ja-助词": {
+   "match": 1,
+   "total": 10,
+   "rate": 0.1
+  },
+  "数字": {
+   "match": 10,
+   "total": 30,
+   "rate": 0.3333
+  },
+  "混排": {
+   "match": 12,
+   "total": 20,
+   "rate": 0.6
+  }
+ },
+ "mismatches": [
+  {
+   "id": "Z055",
+   "category": "zh-难点",
+   "lang": "zh",
+   "text": "发嗲",
+   "accepted": [
+    "ふぁー/⟨dia⟩",
+    "ふぁー/でいあ"
+   ],
+   "actual": "ふぁー",
+   "match": false
+  },
+  {
+   "id": "E009",
+   "category": "en-高频",
+   "lang": "en",
+   "text": "let's go",
+   "accepted": [
+    "れっつ/ごー"
+   ],
+   "actual": "れと/えす/ごー",
+   "match": false
+  },
+  {
+   "id": "E011",
+   "category": "en-高频",
+   "lang": "en",
+   "text": "I love you",
+   "accepted": [
+    "あい/らぶ/ゆー"
+   ],
+   "actual": "い/ろぶえ/ゆー",
+   "match": false
+  },
+  {
+   "id": "E013",
+   "category": "en-高频",
+   "lang": "en",
+   "text": "good morning",
+   "accepted": [
+    "ぐっど/もーにんぐ"
+   ],
+   "actual": "ぐっど/もるにんぐ",
+   "match": false
+  },
+  {
+   "id": "E014",
+   "category": "en-高频",
+   "lang": "en",
+   "text": "happy birthday",
+   "accepted": [
+    "はっぴー/ばーすでー",
+    "はっぴー/ばーすでい"
+   ],
+   "actual": "はっぴー/びるとはだい",
+   "match": false
+  },
+  {
+   "id": "E015",
+   "category": "en-高频",
+   "lang": "en",
+   "text": "my friend",
+   "accepted": [
+    "まい/ふれんど"
+   ],
+   "actual": "えむ/わい/ふれんど",
+   "match": false
+  },
+  {
+   "id": "E017",
+   "category": "en-高频",
+   "lang": "en",
+   "text": "help me",
+   "accepted": [
+    "へるぷ/みー"
+   ],
+   "actual": "へるぷ/め",
+   "match": false
+  },
+  {
+   "id": "A003",
+   "category": "en-缩写",
+   "lang": "en",
+   "text": "USB",
+   "accepted": [
+    "ゆー/えす/びー"
+   ],
+   "actual": "うすぶ",
+   "match": false
+  },
+  {
+   "id": "A004",
+   "category": "en-缩写",
+   "lang": "en",
+   "text": "API",
+   "accepted": [
+    "えー/ぴー/あい"
+   ],
+   "actual": "あぴ",
+   "match": false
+  },
+  {
+   "id": "A005",
+   "category": "en-缩写",
+   "lang": "en",
+   "text": "OBS",
+   "accepted": [
+    "おー/びー/えす"
+   ],
+   "actual": "おぶす",
+   "match": false
+  },
+  {
+   "id": "A006",
+   "category": "en-缩写",
+   "lang": "en",
+   "text": "HTTP",
+   "accepted": [
+    "えいち/てぃー/てぃー/ぴー",
+    "えっち/てぃー/てぃー/ぴー"
+   ],
+   "actual": "はととぷ",
+   "match": false
+  },
+  {
+   "id": "A014",
+   "category": "en-缩写",
+   "lang": "en",
+   "text": "DIY",
+   "accepted": [
+    "でぃー/あい/わい"
+   ],
+   "actual": "でぃい",
+   "match": false
+  },
+  {
+   "id": "O001",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "video",
+   "accepted": [
+    "びでお"
+   ],
+   "actual": "ぶいでお",
+   "match": false
+  },
+  {
+   "id": "O002",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "stream",
+   "accepted": [
+    "すとりーむ"
+   ],
+   "actual": "すとれあむ",
+   "match": false
+  },
+  {
+   "id": "O003",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "server",
+   "accepted": [
+    "さーばー"
+   ],
+   "actual": "せるぶえる",
+   "match": false
+  },
+  {
+   "id": "O004",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "update",
+   "accepted": [
+    "あっぷでーと"
+   ],
+   "actual": "うぷだて",
+   "match": false
+  },
+  {
+   "id": "O005",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "online",
+   "accepted": [
+    "おんらいん"
+   ],
+   "actual": "おんりね",
+   "match": false
+  },
+  {
+   "id": "O006",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "message",
+   "accepted": [
+    "めっせーじ"
+   ],
+   "actual": "めすさげ",
+   "match": false
+  },
+  {
+   "id": "O007",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "computer",
+   "accepted": [
+    "こんぴゅーたー"
+   ],
+   "actual": "くおむぷてる",
+   "match": false
+  },
+  {
+   "id": "O008",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "music",
+   "accepted": [
+    "みゅーじっく"
+   ],
+   "actual": "むしく",
+   "match": false
+  },
+  {
+   "id": "O009",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "phone",
+   "accepted": [
+    "ふぉん",
+    "ふぉーん"
+   ],
+   "actual": "ぷほね",
+   "match": false
+  },
+  {
+   "id": "O010",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "team",
+   "accepted": [
+    "ちーむ"
+   ],
+   "actual": "てあむ",
+   "match": false
+  },
+  {
+   "id": "O011",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "level",
+   "accepted": [
+    "れべる"
+   ],
+   "actual": "れぶえる",
+   "match": false
+  },
+  {
+   "id": "O012",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "skill",
+   "accepted": [
+    "すきる"
+   ],
+   "actual": "すきるる",
+   "match": false
+  },
+  {
+   "id": "O013",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "power",
+   "accepted": [
+    "ぱわー"
+   ],
+   "actual": "ぽうぇる",
+   "match": false
+  },
+  {
+   "id": "O014",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "coffee",
+   "accepted": [
+    "こーひー"
+   ],
+   "actual": "くおふふぇえ",
+   "match": false
+  },
+  {
+   "id": "O015",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "apple",
+   "accepted": [
+    "あっぷる"
+   ],
+   "actual": "あぷぷれ",
+   "match": false
+  },
+  {
+   "id": "O017",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "camera",
+   "accepted": [
+    "かめら"
+   ],
+   "actual": "くあめら",
+   "match": false
+  },
+  {
+   "id": "O018",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "internet",
+   "accepted": [
+    "いんたーねっと"
+   ],
+   "actual": "いんてるねと",
+   "match": false
+  },
+  {
+   "id": "O019",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "keyboard",
+   "accepted": [
+    "きーぼーど"
+   ],
+   "actual": "けいぼあるど",
+   "match": false
+  },
+  {
+   "id": "O020",
+   "category": "en-词表外",
+   "lang": "en",
+   "text": "mouse",
+   "accepted": [
+    "まうす"
+   ],
+   "actual": "もうせ",
+   "match": false
+  },
+  {
+   "id": "J003",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "日本語を話します",
+   "accepted": [
+    "にほんごをはなします"
+   ],
+   "actual": "にほんご/を/はなし/します",
+   "match": false
+  },
+  {
+   "id": "J004",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "今日はいい天気ですね",
+   "accepted": [
+    "きょうわいいてんきですね"
+   ],
+   "actual": "きょう/はいい/てんき/ですね",
+   "match": false
+  },
+  {
+   "id": "J005",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "東京へ行きます",
+   "accepted": [
+    "とうきょうえいきます"
+   ],
+   "actual": "とうきょう/へ/ぎょう/きます",
+   "match": false
+  },
+  {
+   "id": "J007",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "食べる",
+   "accepted": [
+    "たべる"
+   ],
+   "actual": "しょく/べる",
+   "match": false
+  },
+  {
+   "id": "J008",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "行く",
+   "accepted": [
+    "いく"
+   ],
+   "actual": "ぎょう/く",
+   "match": false
+  },
+  {
+   "id": "J009",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "見る",
+   "accepted": [
+    "みる"
+   ],
+   "actual": "けん/る",
+   "match": false
+  },
+  {
+   "id": "J010",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "書きます",
+   "accepted": [
+    "かきます"
+   ],
+   "actual": "かき/きます",
+   "match": false
+  },
+  {
+   "id": "J011",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "新しいゲーム",
+   "accepted": [
+    "あたらしいげーむ"
+   ],
+   "actual": "しん/しいゲーム",
+   "match": false
+  },
+  {
+   "id": "J012",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "友達と遊ぶ",
+   "accepted": [
+    "ともだちとあそぶ"
+   ],
+   "actual": "ともだち/と/ゆう/ぶ",
+   "match": false
+  },
+  {
+   "id": "J013",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "電車に乗る",
+   "accepted": [
+    "でんしゃにのる"
+   ],
+   "actual": "でんしゃ/に/じょう/る",
+   "match": false
+  },
+  {
+   "id": "J014",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "少し待ってください",
+   "accepted": [
+    "すこしまってください"
+   ],
+   "actual": "しょう/し/たい/ってください",
+   "match": false
+  },
+  {
+   "id": "J016",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "人々",
+   "accepted": [
+    "ひとびと"
+   ],
+   "actual": "にん",
+   "match": false
+  },
+  {
+   "id": "J017",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "時々",
+   "accepted": [
+    "ときどき"
+   ],
+   "actual": "とき",
+   "match": false
+  },
+  {
+   "id": "J018",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "鼻血が出た",
+   "accepted": [
+    "はなぢがでた"
+   ],
+   "actual": "はなぢ/が/しゅつ/た",
+   "match": false
+  },
+  {
+   "id": "J019",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "近づく",
+   "accepted": [
+    "ちかづく"
+   ],
+   "actual": "きん/づく",
+   "match": false
+  },
+  {
+   "id": "J021",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "続く",
+   "accepted": [
+    "つづく"
+   ],
+   "actual": "ぞく/く",
+   "match": false
+  },
+  {
+   "id": "J022",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "三ヶ月",
+   "accepted": [
+    "さんかげつ"
+   ],
+   "actual": "さん/ヶ/がつ",
+   "match": false
+  },
+  {
+   "id": "J026",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "映画を見に行こう",
+   "accepted": [
+    "えいがをみにいこう"
+   ],
+   "actual": "えいが/を/けん/に/ぎょう/こう",
+   "match": false
+  },
+  {
+   "id": "J029",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "お疲れ様でした",
+   "accepted": [
+    "おつかれさまでした"
+   ],
+   "actual": "お/ひ/れ/さま/でした",
+   "match": false
+  },
+  {
+   "id": "J030",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "よろしくお願いします",
+   "accepted": [
+    "よろしくおねがいします"
+   ],
+   "actual": "よろしくお/がん/いします",
+   "match": false
+  },
+  {
+   "id": "J031",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "学校に行く",
+   "accepted": [
+    "がっこうにいく"
+   ],
+   "actual": "がっこう/に/ぎょう/く",
+   "match": false
+  },
+  {
+   "id": "J032",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "水を飲みたい",
+   "accepted": [
+    "みずをのみたい"
+   ],
+   "actual": "みず/を/いん/みたい",
+   "match": false
+  },
+  {
+   "id": "J033",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "明日は雨です",
+   "accepted": [
+    "あしたわあめです"
+   ],
+   "actual": "あした/は/あめ/です",
+   "match": false
+  },
+  {
+   "id": "J034",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "猫が好きです",
+   "accepted": [
+    "ねこがすきです"
+   ],
+   "actual": "ねこ/が/こう/きです",
+   "match": false
+  },
+  {
+   "id": "J036",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "美味しい",
+   "accepted": [
+    "おいしい"
+   ],
+   "actual": "びみ/しい",
+   "match": false
+  },
+  {
+   "id": "J037",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "一緒に遊ぼう",
+   "accepted": [
+    "いっしょにあそぼう"
+   ],
+   "actual": "いっしょ/に/ゆう/ぼう",
+   "match": false
+  },
+  {
+   "id": "J038",
+   "category": "ja-句子",
+   "lang": "ja",
+   "text": "頑張ってください",
+   "accepted": [
+    "がんばってください"
+   ],
+   "actual": "がん/ちょう/ってください",
+   "match": false
+  },
+  {
+   "id": "P001",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "私は",
+   "accepted": [
+    "わたしわ"
+   ],
+   "actual": "わたし/は",
+   "match": false
+  },
+  {
+   "id": "P002",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "これは本です",
+   "accepted": [
+    "これわほんです"
+   ],
+   "actual": "これは/ほん/です",
+   "match": false
+  },
+  {
+   "id": "P003",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "こんにちは",
+   "accepted": [
+    "こんにちわ"
+   ],
+   "actual": "こんにちは",
+   "match": false
+  },
+  {
+   "id": "P004",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "こんばんは",
+   "accepted": [
+    "こんばんわ"
+   ],
+   "actual": "こんばんは",
+   "match": false
+  },
+  {
+   "id": "P005",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "学校へ行く",
+   "accepted": [
+    "がっこうえいく"
+   ],
+   "actual": "がっこう/へ/ぎょう/く",
+   "match": false
+  },
+  {
+   "id": "P006",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "葉",
+   "accepted": [
+    "は"
+   ],
+   "actual": "わ",
+   "match": false
+  },
+  {
+   "id": "P007",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "歯が痛い",
+   "accepted": [
+    "はがいたい"
+   ],
+   "actual": "わ/が/つう/い",
+   "match": false
+  },
+  {
+   "id": "P008",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "母は元気です",
+   "accepted": [
+    "ははわげんきです"
+   ],
+   "actual": "はは/は/げんき/です",
+   "match": false
+  },
+  {
+   "id": "P010",
+   "category": "ja-助词",
+   "lang": "ja",
+   "text": "部屋へ入る",
+   "accepted": [
+    "へやえはいる"
+   ],
+   "actual": "へや/へ/にゅう/る",
+   "match": false
+  },
+  {
+   "id": "N001",
+   "category": "数字",
+   "lang": "zh",
+   "text": "我有25个苹果",
+   "accepted": [
+    "うぉ/よう/あーる/しー/うー/が/ぴん/ぐお"
+   ],
+   "actual": "うぉ/よう/あー/うー/が/ぴん/ぐお",
+   "match": false
+  },
+  {
+   "id": "N002",
+   "category": "数字",
+   "lang": "zh",
+   "text": "1000",
+   "accepted": [
+    "いー/ちあん"
+   ],
+   "actual": "いー/りん/りん/りん",
+   "match": false
+  },
+  {
+   "id": "N003",
+   "category": "数字",
+   "lang": "zh",
+   "text": "10月7日",
+   "accepted": [
+    "しー/ゆえ/ちー/りー"
+   ],
+   "actual": "いー/りん/ゆえ/ちー/りー",
+   "match": false
+  },
+  {
+   "id": "N005",
+   "category": "数字",
+   "lang": "zh",
+   "text": "3.14",
+   "accepted": [
+    "さん/でぃあん/いー/すー"
+   ],
+   "actual": "さん。いー/すー",
+   "match": false
+  },
+  {
+   "id": "N006",
+   "category": "数字",
+   "lang": "zh",
+   "text": "50%",
+   "accepted": [
+    "ばい/ふぇん/じー/うー/しー"
+   ],
+   "actual": "うー/りん",
+   "match": false
+  },
+  {
+   "id": "N008",
+   "category": "数字",
+   "lang": "zh",
+   "text": "100块",
+   "accepted": [
+    "いー/ばい/くあい"
+   ],
+   "actual": "いー/りん/りん/くあい",
+   "match": false
+  },
+  {
+   "id": "N010",
+   "category": "数字",
+   "lang": "zh",
+   "text": "12点",
+   "accepted": [
+    "しー/あーる/でぃあん"
+   ],
+   "actual": "いー/あー/でぃあん",
+   "match": false
+  },
+  {
+   "id": "N012",
+   "category": "数字",
+   "lang": "ja",
+   "text": "10",
+   "accepted": [
+    "じゅう"
+   ],
+   "actual": "イチ/ゼロ",
+   "match": false
+  },
+  {
+   "id": "N013",
+   "category": "数字",
+   "lang": "ja",
+   "text": "25",
+   "accepted": [
+    "にじゅうご"
+   ],
+   "actual": "ニ/ゴ",
+   "match": false
+  },
+  {
+   "id": "N014",
+   "category": "数字",
+   "lang": "ja",
+   "text": "100",
+   "accepted": [
+    "ひゃく"
+   ],
+   "actual": "イチ/ゼロ/ゼロ",
+   "match": false
+  },
+  {
+   "id": "N015",
+   "category": "数字",
+   "lang": "ja",
+   "text": "2026年",
+   "accepted": [
+    "にせんにじゅうろくねん"
+   ],
+   "actual": "ニ/ゼロ/ニ/ロク/ねん",
+   "match": false
+  },
+  {
+   "id": "N016",
+   "category": "数字",
+   "lang": "ja",
+   "text": "3時",
+   "accepted": [
+    "さんじ"
+   ],
+   "actual": "サン/とき",
+   "match": false
+  },
+  {
+   "id": "N017",
+   "category": "数字",
+   "lang": "ja",
+   "text": "4月",
+   "accepted": [
+    "しがつ"
+   ],
+   "actual": "ヨン/がつ",
+   "match": false
+  },
+  {
+   "id": "N018",
+   "category": "数字",
+   "lang": "ja",
+   "text": "1000円",
+   "accepted": [
+    "せんえん"
+   ],
+   "actual": "イチ/ゼロ/ゼロ/ゼロ/えん",
+   "match": false
+  },
+  {
+   "id": "N023",
+   "category": "数字",
+   "lang": "en",
+   "text": "10",
+   "accepted": [
+    "てん"
+   ],
+   "actual": "わん/ぜろ",
+   "match": false
+  },
+  {
+   "id": "N024",
+   "category": "数字",
+   "lang": "en",
+   "text": "25",
+   "accepted": [
+    "とぅえんてぃーふぁいぶ",
+    "とぅえにーふぁいぶ"
+   ],
+   "actual": "つー/ふぁいぶ",
+   "match": false
+  },
+  {
+   "id": "N025",
+   "category": "数字",
+   "lang": "en",
+   "text": "100",
+   "accepted": [
+    "わんはんどれっど",
+    "わんはんどれっど"
+   ],
+   "actual": "わん/ぜろ/ぜろ",
+   "match": false
+  },
+  {
+   "id": "N026",
+   "category": "数字",
+   "lang": "en",
+   "text": "2026",
+   "accepted": [
+    "とぅえんてぃーとぅえんてぃーしっくす",
+    "とぅえんてぃーとぅえんてぃーしっくす",
+    "つーさうざんどとぅえんてぃーしっくす"
+   ],
+   "actual": "つー/ぜろ/つー/しっくす",
+   "match": false
+  },
+  {
+   "id": "N027",
+   "category": "数字",
+   "lang": "en",
+   "text": "3.5",
+   "accepted": [
+    "すりーぽいんとふぁいぶ"
+   ],
+   "actual": "すりー。ふぁいぶ",
+   "match": false
+  },
+  {
+   "id": "N030",
+   "category": "数字",
+   "lang": "en",
+   "text": "12",
+   "accepted": [
+    "とぅえるぶ"
+   ],
+   "actual": "わん/つー",
+   "match": false
+  },
+  {
+   "id": "M002",
+   "category": "混排",
+   "lang": "zh",
+   "text": "我在B站看video",
+   "accepted": [
+    "うぉ/ざい/びー/ざん/かん/びでお"
+   ],
+   "actual": "うぉ/ざい/びー/ざん/かん/ぶいでお",
+   "match": false
+  },
+  {
+   "id": "M008",
+   "category": "混排",
+   "lang": "zh",
+   "text": "打开OBS直播",
+   "accepted": [
+    "だー/かい/おー/びー/えす/じー/ぼー"
+   ],
+   "actual": "だー/かい/おぶす/じー/ぼー",
+   "match": false
+  },
+  {
+   "id": "M011",
+   "category": "混排",
+   "lang": "ja",
+   "text": "今日はgameをする",
+   "accepted": [
+    "きょうわげーむをする"
+   ],
+   "actual": "きょう/は/げーむ/をする",
+   "match": false
+  },
+  {
+   "id": "M012",
+   "category": "混排",
+   "lang": "ja",
+   "text": "YouTubeを見る",
+   "accepted": [
+    "ゆーちゅーぶをみる"
+   ],
+   "actual": "ゆーちゅーぶ/を/けん/る",
+   "match": false
+  },
+  {
+   "id": "M013",
+   "category": "混排",
+   "lang": "ja",
+   "text": "PCが壊れた",
+   "accepted": [
+    "ぴーしーがこわれた"
+   ],
+   "actual": "ぴーしー/が/かい/れた",
+   "match": false
+  },
+  {
+   "id": "M016",
+   "category": "混排",
+   "lang": "en",
+   "text": "I like 寿司",
+   "accepted": [
+    "あい/らいく/しょう/すー"
+   ],
+   "actual": "い/りけ/しょう/すー",
+   "match": false
+  },
+  {
+   "id": "M017",
+   "category": "混排",
+   "lang": "en",
+   "text": "I have 3 apples",
+   "accepted": [
+    "あい/はぶ/すりー/あっぷるず"
+   ],
+   "actual": "い/はぶえ/すりー/あぷぷれす",
+   "match": false
+  },
+  {
+   "id": "M019",
+   "category": "混排",
+   "lang": "en",
+   "text": "my PC is ok",
+   "accepted": [
+    "まい/ぴー/しー/いず/おーけー"
+   ],
+   "actual": "えむ/わい/ぴーしー/いす/おーけー",
+   "match": false
+  }
+ ]
+}
