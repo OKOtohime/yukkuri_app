@@ -1,0 +1,99 @@
+{
+ "rows": [
+  {
+   "file": "yukkuri/g2p/__init__.py",
+   "statements": 3,
+   "covered": 3,
+   "pct": 100.0,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/g2p/normalizer.py",
+   "statements": 23,
+   "covered": 22,
+   "pct": 95.7,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/g2p/polyglot.py",
+   "statements": 88,
+   "covered": 53,
+   "pct": 60.2,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/g2p/dicts/__init__.py",
+   "statements": 3,
+   "covered": 3,
+   "pct": 100.0,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/g2p/dicts/english.py",
+   "statements": 5,
+   "covered": 5,
+   "pct": 100.0,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/g2p/dicts/pinyin.py",
+   "statements": 1,
+   "covered": 1,
+   "pct": 100.0,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/config.py",
+   "statements": 144,
+   "covered": 94,
+   "pct": 65.3,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/audio/resample.py",
+   "statements": 81,
+   "covered": 54,
+   "pct": 66.7,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/audio/capture.py",
+   "statements": 73,
+   "covered": 62,
+   "pct": 84.9,
+   "excluded_device_io": 31
+  },
+  {
+   "file": "yukkuri/audio/player.py",
+   "statements": 186,
+   "covered": 148,
+   "pct": 79.6,
+   "excluded_device_io": 182
+  },
+  {
+   "file": "yukkuri/audio/vad.py",
+   "statements": 84,
+   "covered": 60,
+   "pct": 71.4,
+   "excluded_device_io": 0
+  },
+  {
+   "file": "yukkuri/pipeline.py",
+   "statements": 138,
+   "covered": 109,
+   "pct": 79.0,
+   "excluded_device_io": 44
+  },
+  {
+   "file": "yukkuri/tts/aquestalk1.py",
+   "statements": 103,
+   "covered": 74,
+   "pct": 71.8,
+   "excluded_device_io": 0
+  }
+ ],
+ "total_statements": 932,
+ "total_covered": 688,
+ "total_pct": 73.8,
+ "threshold_pct": 80
+}

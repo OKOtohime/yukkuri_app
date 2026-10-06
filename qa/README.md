@@ -48,3 +48,6 @@ YUKKURI_DATA_DIR=~/.cache/yukkuri-qa/appdata-R1 ~/.cache/yukkuri-qa/venv-R1/bin/
 - 用例命名：`test_<需求ID小写>_<场景>`
 - pytest 标记：见 `conftest.py`
 - 缺陷：`reports/defects/DEF-xxx.md`；观察项：`reports/observations.md`
+- 编号按 WP 分段，避免并行会话冲突：WP-nn 的缺陷用 DEF-nn1 起，观察项用 OBS-nn1 起（WP-02：DEF-201、OBS-201）
+- 已登记缺陷的用例用 `xfail(strict=True, raises=AssertionError, reason="DEF-xxx")` 标注，缺陷修复后会 XPASS 并让套件失败
+- WP-02 的测量产物在 `reports/wp02/`；QR-MNT 工具：`eval/mnt/run_upstream_clean.py`（干净环境跑上游单测）、`eval/mnt/coverage_scope.py`（按需求口径统计覆盖率）
