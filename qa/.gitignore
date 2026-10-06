@@ -1,0 +1,10 @@
+# 评测语料与生成的音频不入库（许可与体积原因）
+data/corpora/*
+!data/corpora/README.md
+reports/**/*.wav
+reports/**/junit-*.xml
+.coverage
+htmlcov/
+
+# AquesTalk 专有包（不可再分发）
+aqtk*.zip

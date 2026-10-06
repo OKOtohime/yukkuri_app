@@ -1,0 +1,9 @@
+# QA 测试依赖（独立于上游 pyproject.toml）
+pytest>=8.0
+pytest-cov>=5.0
+pytest-timeout>=2.3
+hypothesis>=6.100
+psutil>=5.9
+jiwer>=3.0
+soundfile>=0.12
+cn2an>=0.5

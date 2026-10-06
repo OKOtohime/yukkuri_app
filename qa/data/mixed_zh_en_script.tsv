@@ -1,0 +1,131 @@
+id	use	text
+MIX001	real	今天我们来打一把 rank，大家准备好了吗
+MIX002	real	这个 boss 的血量好厚，我们先撤退
+MIX003	real	我的 CPU 占用一直是百分之百
+MIX004	real	谁能帮我看一下 Discord 的语音设置
+MIX005	real	这把 GG 了，下一把再来
+MIX006	real	先去 Steam 上把游戏更新一下
+MIX007	real	我刚刚在 YouTube 上看到一个很有意思的视频
+MIX008	real	兄弟们 nice，这波配合太漂亮了
+MIX009	real	等我一下，我去开一下 OBS
+MIX010	real	你的 mic 好像有点杂音
+MIX011	real	这个 bug 我昨天已经提交到 GitHub 了
+MIX012	real	服务器的 IP 地址发到群里了
+MIX013	real	我换了一块新的 GPU，帧数高了很多
+MIX014	real	今晚八点准时开 live，记得来看
+MIX015	real	这个 feature 下个版本才会上线
+MIX016	real	sorry 我刚才掉线了
+MIX017	real	我觉得这个 plan 还需要再讨论一下
+MIX018	real	把 Python 的版本升级到三点十二
+MIX019	real	这个 meeting 推迟到明天下午
+MIX020	real	他是我们队里最 pro 的玩家
+MIX021	real	记得把 PPT 发到我的邮箱
+MIX022	real	这个 API 的返回值有问题
+MIX023	real	我在 Linux 上测试过了，没有问题
+MIX024	real	OK，那我们就这么定了
+MIX025	real	你先 push 上去，我再 review 一下
+MIX026	real	这个 skin 真的太好看了
+MIX027	real	我们的 deadline 是周五
+MIX028	real	这局对面有个 noob 一直在送
+MIX029	real	等一下 loading 太慢了
+MIX030	real	晚安各位，see you later
+MIX031	tts	今天的 stream 先到这里，谢谢大家
+MIX032	tts	我们需要一个 tank 在前面顶住
+MIX033	tts	这个 combo 我练了好久
+MIX034	tts	快点 heal 我，我快没血了
+MIX035	tts	对面打野在 mid 附近
+MIX036	tts	我先 farm 一会儿再去支援
+MIX037	tts	这个装备的 DPS 很高
+MIX038	tts	大家注意 respawn 的时间
+MIX039	tts	这把我们 carry 不动了
+MIX040	tts	再来一局 duo 吧
+MIX041	tts	我的 ping 突然变得很高
+MIX042	tts	这个 patch 削弱了好多英雄
+MIX043	tts	下个 season 会出新地图
+MIX044	tts	谁有多余的 coin 借我一点
+MIX045	tts	这个 level 的设计很有意思
+MIX046	tts	记得开启 auto save
+MIX047	tts	我们来做一个 speedrun 挑战
+MIX048	tts	这个 NPC 的对话好搞笑
+MIX049	tts	我刚抽到了一个 SSR 角色
+MIX050	tts	这次的 event 奖励很丰富
+MIX051	tts	请大家在 chat 里面刷一波
+MIX052	tts	感谢老板的 super chat
+MIX053	tts	这个 clip 可以剪成短视频
+MIX054	tts	我把 setting 调成了最低画质
+MIX055	tts	你的 FPS 只有三十帧吗
+MIX056	tts	这个 mod 需要手动安装
+MIX057	tts	我想买一个新的 keyboard
+MIX058	tts	耳机的 driver 需要重新装一下
+MIX059	tts	这个 app 一直闪退
+MIX060	tts	手机的 battery 快没电了
+MIX061	tts	请把 Wi-Fi 密码告诉我
+MIX062	tts	我们的 server 在维护中
+MIX063	tts	这个 project 下周要交付
+MIX064	tts	请大家先 check 一下自己的代码
+MIX065	tts	这个 function 的参数太多了
+MIX066	tts	我在 debug 一个很奇怪的问题
+MIX067	tts	测试 case 全部通过了
+MIX068	tts	这个 database 的查询太慢
+MIX069	tts	我们需要优化一下 performance
+MIX070	tts	先把 branch 合并到主线
+MIX071	tts	这个 commit 的信息写得不清楚
+MIX072	tts	请帮我 approve 一下这个申请
+MIX073	tts	文档已经 update 了
+MIX074	tts	这个 version 有兼容性问题
+MIX075	tts	我刚装好 Windows 十一
+MIX076	tts	Docker 的镜像下载失败了
+MIX077	tts	这个 AI 模型的效果很好
+MIX078	tts	我们来跑一下 benchmark
+MIX079	tts	请把 log 文件发给我
+MIX080	tts	这个 UI 的颜色有点刺眼
+MIX081	tts	这个 PR 我已经 merge 了
+MIX082	tts	明天上午有一个 interview
+MIX083	tts	这个 offer 的待遇不错
+MIX084	tts	我们 team 一共有五个人
+MIX085	tts	下午三点开 call
+MIX086	tts	这份 report 写得很详细
+MIX087	tts	请注意 email 里的附件
+MIX088	tts	这个 idea 很有创意
+MIX089	tts	先做一个 demo 给大家看看
+MIX090	tts	这个 KPI 太难完成了
+MIX091	tts	周末我们去吃 brunch 吧
+MIX092	tts	这家 coffee 店的拿铁很好喝
+MIX093	tts	我最近在健身房练 cardio
+MIX094	tts	这件 T恤 是 oversize 的
+MIX095	tts	今天的 outfit 好看吗
+MIX096	tts	我想去 shopping
+MIX097	tts	这个 vlog 拍得很有感觉
+MIX098	tts	她是一个很 nice 的人
+MIX099	tts	这首歌的 beat 好上头
+MIX100	tts	我们一起去看 movie 吧
+MIX101	tts	这部剧的 ending 太意外了
+MIX102	tts	请把 playlist 分享给我
+MIX103	tts	我订了一个 hotel 在市中心
+MIX104	tts	航班 delay 了两个小时
+MIX105	tts	记得带上你的 passport
+MIX106	tts	这个 hello world 程序太简单了
+MIX107	tts	我们的 goal 是拿到冠军
+MIX108	tts	这个 test 我做了三遍
+MIX109	tts	你 ready 了吗，我们 go
+MIX110	tts	谢谢大家，thank you very much
+MIX111	tts	我用 VS Code 写代码
+MIX112	tts	这个 USB 接口坏了
+MIX113	tts	请把 PDF 转换成 Word
+MIX114	tts	我的 iPhone 屏幕摔碎了
+MIX115	tts	这个 HDMI 线太短了
+MIX116	tts	我们在 B 站上直播
+MIX117	tts	这个 up 主更新好快
+MIX118	tts	一键三连支持一下 up 主
+MIX119	tts	他的 ID 是一串数字
+MIX120	tts	这个 VPN 连不上
+MIX121	tts	我昨天买了一台 Mac
+MIX122	tts	这个 emoji 好可爱
+MIX123	tts	大家把 like 点起来
+MIX124	tts	我们来 battle 一下
+MIX125	tts	这个 trick 很实用
+MIX126	tts	我的 account 被盗了
+MIX127	tts	请输入你的 password
+MIX128	tts	这个 game 我通关三次了
+MIX129	tts	你玩过这个 RPG 吗
+MIX130	tts	好了，bye bye 大家

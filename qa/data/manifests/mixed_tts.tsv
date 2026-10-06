@@ -1,0 +1,101 @@
+id	wav	duration	text	source	engine	voice	rt60	noise	snr_db
+MIX031	mixed_tts/MIX031.wav	3.600	今天的 stream 先到这里，谢谢大家	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.37	noise-free-sound-0078.wav	21.1
+MIX032	mixed_tts/MIX032.wav	3.356	我们需要一个 tank 在前面顶住	tts	kokoro-v1.0	zf_xiaobei	0.51	noise-free-sound-0286.wav	20.0
+MIX033	mixed_tts/MIX033.wav	2.520	这个 combo 我练了好久	tts	edge-tts	zh-CN-YunxiNeural	0.55	noise-free-sound-0841.wav	19.7
+MIX034	mixed_tts/MIX034.wav	2.543	快点 heal 我，我快没血了	tts	kokoro-v1.0	zf_xiaoni	0.60	noise-free-sound-0739.wav	24.6
+MIX035	mixed_tts/MIX035.wav	2.640	对面打野在 mid 附近	tts	edge-tts	zh-CN-YunjianNeural	0.46	noise-free-sound-0112.wav	22.0
+MIX036	mixed_tts/MIX036.wav	2.709	我先 farm 一会儿再去支援	tts	kokoro-v1.0	zm_yunxia	0.60	noise-sound-bible-0070.wav	15.0
+MIX037	mixed_tts/MIX037.wav	3.024	这个装备的 DPS 很高	tts	edge-tts	zh-CN-XiaoyiNeural	0.40	noise-free-sound-0218.wav	15.6
+MIX038	mixed_tts/MIX038.wav	1.720	大家注意 respawn 的时间	tts	kokoro-v1.0	zm_yunyang	0.52	noise-free-sound-0017.wav	20.1
+MIX039	mixed_tts/MIX039.wav	2.232	这把我们 carry 不动了	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.59	noise-free-sound-0117.wav	23.6
+MIX040	mixed_tts/MIX040.wav	1.612	再来一局 duo 吧	tts	kokoro-v1.0	zf_xiaobei	0.31	noise-free-sound-0643.wav	15.5
+MIX041	mixed_tts/MIX041.wav	2.592	我的 ping 突然变得很高	tts	edge-tts	zh-CN-YunxiNeural	0.44	noise-free-sound-0515.wav	16.3
+MIX042	mixed_tts/MIX042.wav	2.329	这个 patch 削弱了好多英雄	tts	kokoro-v1.0	zf_xiaoni	0.60	noise-free-sound-0644.wav	24.9
+MIX043	mixed_tts/MIX043.wav	2.976	下个 season 会出新地图	tts	edge-tts	zh-CN-YunjianNeural	0.45	noise-free-sound-0032.wav	17.8
+MIX044	mixed_tts/MIX044.wav	2.530	谁有多余的 coin 借我一点	tts	kokoro-v1.0	zm_yunxia	0.43	noise-free-sound-0801.wav	18.4
+MIX045	mixed_tts/MIX045.wav	3.048	这个 level 的设计很有意思	tts	edge-tts	zh-CN-XiaoyiNeural	0.52	noise-free-sound-0477.wav	17.0
+MIX046	mixed_tts/MIX046.wav	1.543	记得开启 auto save	tts	kokoro-v1.0	zm_yunyang	0.57	noise-free-sound-0076.wav	19.3
+MIX047	mixed_tts/MIX047.wav	2.856	我们来做一个 speedrun 挑战	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.31	noise-free-sound-0342.wav	15.9
+MIX048	mixed_tts/MIX048.wav	3.477	这个 NPC 的对话好搞笑	tts	kokoro-v1.0	zf_xiaobei	0.31	noise-free-sound-0193.wav	23.1
+MIX049	mixed_tts/MIX049.wav	3.288	我刚抽到了一个 SSR 角色	tts	edge-tts	zh-CN-YunxiNeural	0.30	noise-free-sound-0303.wav	23.3
+MIX050	mixed_tts/MIX050.wav	2.745	这次的 event 奖励很丰富	tts	kokoro-v1.0	zf_xiaoni	0.34	noise-free-sound-0791.wav	16.9
+MIX051	mixed_tts/MIX051.wav	2.880	请大家在 chat 里面刷一波	tts	edge-tts	zh-CN-YunjianNeural	0.49	noise-sound-bible-0029.wav	19.2
+MIX052	mixed_tts/MIX052.wav	2.052	感谢老板的 super chat	tts	kokoro-v1.0	zm_yunxia	0.42	noise-free-sound-0296.wav	19.1
+MIX053	mixed_tts/MIX053.wav	3.312	这个 clip 可以剪成短视频	tts	edge-tts	zh-CN-XiaoyiNeural	0.57	noise-free-sound-0762.wav	23.2
+MIX054	mixed_tts/MIX054.wav	2.375	我把 setting 调成了最低画质	tts	kokoro-v1.0	zm_yunyang	0.38	noise-free-sound-0120.wav	19.0
+MIX055	mixed_tts/MIX055.wav	3.048	你的 FPS 只有三十帧吗	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.39	noise-free-sound-0403.wav	23.7
+MIX056	mixed_tts/MIX056.wav	2.929	这个 mod 需要手动安装	tts	kokoro-v1.0	zf_xiaobei	0.49	noise-free-sound-0063.wav	16.0
+MIX057	mixed_tts/MIX057.wav	2.688	我想买一个新的 keyboard	tts	edge-tts	zh-CN-YunxiNeural	0.48	noise-free-sound-0177.wav	21.9
+MIX058	mixed_tts/MIX058.wav	3.055	耳机的 driver 需要重新装一下	tts	kokoro-v1.0	zf_xiaoni	0.51	noise-free-sound-0695.wav	23.3
+MIX059	mixed_tts/MIX059.wav	2.544	这个 app 一直闪退	tts	edge-tts	zh-CN-YunjianNeural	0.55	noise-free-sound-0246.wav	18.0
+MIX060	mixed_tts/MIX060.wav	2.449	手机的 battery 快没电了	tts	kokoro-v1.0	zm_yunxia	0.44	noise-free-sound-0211.wav	22.0
+MIX061	mixed_tts/MIX061.wav	2.760	请把 Wi-Fi 密码告诉我	tts	edge-tts	zh-CN-XiaoyiNeural	0.49	noise-free-sound-0439.wav	18.5
+MIX062	mixed_tts/MIX062.wav	2.108	我们的 server 在维护中	tts	kokoro-v1.0	zm_yunyang	0.45	noise-free-sound-0142.wav	20.7
+MIX063	mixed_tts/MIX063.wav	3.024	这个 project 下周要交付	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.45	noise-free-sound-0065.wav	24.3
+MIX064	mixed_tts/MIX064.wav	3.507	请大家先 check 一下自己的代码	tts	kokoro-v1.0	zf_xiaobei	0.51	noise-free-sound-0169.wav	15.6
+MIX065	mixed_tts/MIX065.wav	2.832	这个 function 的参数太多了	tts	edge-tts	zh-CN-YunxiNeural	0.33	noise-free-sound-0025.wav	23.9
+MIX066	mixed_tts/MIX066.wav	2.600	我在 debug 一个很奇怪的问题	tts	kokoro-v1.0	zf_xiaoni	0.39	noise-free-sound-0493.wav	15.3
+MIX067	mixed_tts/MIX067.wav	2.904	测试 case 全部通过了	tts	edge-tts	zh-CN-YunjianNeural	0.56	noise-free-sound-0695.wav	16.9
+MIX068	mixed_tts/MIX068.wav	2.689	这个 database 的查询太慢	tts	kokoro-v1.0	zm_yunxia	0.41	noise-free-sound-0325.wav	22.7
+MIX069	mixed_tts/MIX069.wav	3.264	我们需要优化一下 performance	tts	edge-tts	zh-CN-XiaoyiNeural	0.44	noise-free-sound-0499.wav	17.1
+MIX070	mixed_tts/MIX070.wav	2.116	先把 branch 合并到主线	tts	kokoro-v1.0	zm_yunyang	0.35	noise-sound-bible-0017.wav	23.1
+MIX071	mixed_tts/MIX071.wav	3.216	这个 commit 的信息写得不清楚	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.47	noise-free-sound-0308.wav	22.1
+MIX072	mixed_tts/MIX072.wav	3.178	请帮我 approve 一下这个申请	tts	kokoro-v1.0	zf_xiaobei	0.46	noise-free-sound-0803.wav	18.1
+MIX073	mixed_tts/MIX073.wav	2.448	文档已经 update 了	tts	edge-tts	zh-CN-YunxiNeural	0.42	noise-free-sound-0815.wav	23.2
+MIX074	mixed_tts/MIX074.wav	2.649	这个 version 有兼容性问题	tts	kokoro-v1.0	zf_xiaoni	0.30	noise-free-sound-0251.wav	24.8
+MIX075	mixed_tts/MIX075.wav	2.808	我刚装好 Windows 十一	tts	edge-tts	zh-CN-YunjianNeural	0.31	noise-free-sound-0479.wav	17.5
+MIX076	mixed_tts/MIX076.wav	2.278	Docker 的镜像下载失败了	tts	kokoro-v1.0	zm_yunxia	0.32	noise-free-sound-0205.wav	19.9
+MIX077	mixed_tts/MIX077.wav	3.336	这个 AI 模型的效果很好	tts	edge-tts	zh-CN-XiaoyiNeural	0.58	noise-sound-bible-0084.wav	20.9
+MIX078	mixed_tts/MIX078.wav	2.067	我们来跑一下 benchmark	tts	kokoro-v1.0	zm_yunyang	0.42	noise-free-sound-0701.wav	19.3
+MIX079	mixed_tts/MIX079.wav	2.400	请把 log 文件发给我	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.38	noise-free-sound-0537.wav	19.7
+MIX080	mixed_tts/MIX080.wav	2.953	这个 UI 的颜色有点刺眼	tts	kokoro-v1.0	zf_xiaobei	0.51	noise-free-sound-0708.wav	20.0
+MIX081	mixed_tts/MIX081.wav	2.832	这个 PR 我已经 merge 了	tts	edge-tts	zh-CN-YunxiNeural	0.38	noise-free-sound-0512.wav	17.3
+MIX082	mixed_tts/MIX082.wav	2.000	明天上午有一个 interview	tts	kokoro-v1.0	zf_xiaoni	0.59	noise-sound-bible-0024.wav	16.5
+MIX083	mixed_tts/MIX083.wav	2.592	这个 offer 的待遇不错	tts	edge-tts	zh-CN-YunjianNeural	0.43	noise-free-sound-0786.wav	15.5
+MIX084	mixed_tts/MIX084.wav	2.299	我们 team 一共有五个人	tts	kokoro-v1.0	zm_yunxia	0.42	noise-free-sound-0065.wav	20.0
+MIX085	mixed_tts/MIX085.wav	2.352	下午三点开 call	tts	edge-tts	zh-CN-XiaoyiNeural	0.51	noise-free-sound-0812.wav	23.8
+MIX086	mixed_tts/MIX086.wav	2.248	这份 report 写得很详细	tts	kokoro-v1.0	zm_yunyang	0.50	noise-free-sound-0613.wav	17.8
+MIX087	mixed_tts/MIX087.wav	2.616	请注意 email 里的附件	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.32	noise-free-sound-0409.wav	23.6
+MIX088	mixed_tts/MIX088.wav	2.666	这个 idea 很有创意	tts	kokoro-v1.0	zf_xiaobei	0.44	noise-sound-bible-0017.wav	24.7
+MIX089	mixed_tts/MIX089.wav	2.808	先做一个 demo 给大家看看	tts	edge-tts	zh-CN-YunxiNeural	0.48	noise-free-sound-0413.wav	21.4
+MIX090	mixed_tts/MIX090.wav	2.673	这个 KPI 太难完成了	tts	kokoro-v1.0	zf_xiaoni	0.54	noise-free-sound-0118.wav	19.1
+MIX091	mixed_tts/MIX091.wav	2.640	周末我们去吃 brunch 吧	tts	edge-tts	zh-CN-YunjianNeural	0.36	noise-free-sound-0584.wav	22.6
+MIX092	mixed_tts/MIX092.wav	2.740	这家 coffee 店的拿铁很好喝	tts	kokoro-v1.0	zm_yunxia	0.39	noise-free-sound-0325.wav	19.2
+MIX093	mixed_tts/MIX093.wav	3.024	我最近在健身房练 cardio	tts	edge-tts	zh-CN-XiaoyiNeural	0.39	noise-free-sound-0122.wav	24.1
+MIX094	mixed_tts/MIX094.wav	1.676	这件 T恤 是 oversize 的	tts	kokoro-v1.0	zm_yunyang	0.39	noise-free-sound-0797.wav	18.1
+MIX095	mixed_tts/MIX095.wav	2.568	今天的 outfit 好看吗	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.49	noise-free-sound-0628.wav	20.9
+MIX096	mixed_tts/MIX096.wav	1.557	我想去 shopping	tts	kokoro-v1.0	zf_xiaobei	0.43	noise-free-sound-0534.wav	17.7
+MIX097	mixed_tts/MIX097.wav	3.072	这个 vlog 拍得很有感觉	tts	edge-tts	zh-CN-YunxiNeural	0.52	noise-free-sound-0779.wav	24.1
+MIX098	mixed_tts/MIX098.wav	1.757	她是一个很 nice 的人	tts	kokoro-v1.0	zf_xiaoni	0.30	noise-free-sound-0744.wav	16.3
+MIX099	mixed_tts/MIX099.wav	2.712	这首歌的 beat 好上头	tts	edge-tts	zh-CN-YunjianNeural	0.57	noise-sound-bible-0024.wav	16.0
+MIX100	mixed_tts/MIX100.wav	1.635	我们一起去看 movie 吧	tts	kokoro-v1.0	zm_yunxia	0.41	noise-free-sound-0312.wav	22.4
+MIX101	mixed_tts/MIX101.wav	2.880	这部剧的 ending 太意外了	tts	edge-tts	zh-CN-XiaoyiNeural	0.54	noise-free-sound-0020.wav	18.5
+MIX102	mixed_tts/MIX102.wav	1.960	请把 playlist 分享给我	tts	kokoro-v1.0	zm_yunyang	0.54	noise-free-sound-0033.wav	15.1
+MIX103	mixed_tts/MIX103.wav	2.904	我订了一个 hotel 在市中心	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.57	noise-free-sound-0405.wav	19.5
+MIX104	mixed_tts/MIX104.wav	2.850	航班 delay 了两个小时	tts	kokoro-v1.0	zf_xiaobei	0.46	noise-free-sound-0706.wav	16.8
+MIX105	mixed_tts/MIX105.wav	2.712	记得带上你的 passport	tts	edge-tts	zh-CN-YunxiNeural	0.36	noise-free-sound-0228.wav	16.5
+MIX106	mixed_tts/MIX106.wav	3.060	这个 hello world 程序太简单了	tts	kokoro-v1.0	zf_xiaoni	0.57	noise-sound-bible-0063.wav	24.9
+MIX107	mixed_tts/MIX107.wav	2.736	我们的 goal 是拿到冠军	tts	edge-tts	zh-CN-YunjianNeural	0.33	noise-free-sound-0245.wav	22.4
+MIX108	mixed_tts/MIX108.wav	2.030	这个 test 我做了三遍	tts	kokoro-v1.0	zm_yunxia	0.57	noise-free-sound-0007.wav	20.8
+MIX109	mixed_tts/MIX109.wav	2.568	你 ready 了吗，我们 go	tts	edge-tts	zh-CN-XiaoyiNeural	0.41	noise-free-sound-0103.wav	23.7
+MIX110	mixed_tts/MIX110.wav	2.189	谢谢大家，thank you very much	tts	kokoro-v1.0	zm_yunyang	0.56	noise-free-sound-0001.wav	19.3
+MIX111	mixed_tts/MIX111.wav	2.640	我用 VS Code 写代码	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.45	noise-free-sound-0562.wav	17.6
+MIX112	mixed_tts/MIX112.wav	3.138	这个 USB 接口坏了	tts	kokoro-v1.0	zf_xiaobei	0.31	noise-free-sound-0618.wav	23.6
+MIX113	mixed_tts/MIX113.wav	2.952	请把 PDF 转换成 Word	tts	edge-tts	zh-CN-YunxiNeural	0.37	noise-sound-bible-0083.wav	21.0
+MIX114	mixed_tts/MIX114.wav	2.504	我的 iPhone 屏幕摔碎了	tts	kokoro-v1.0	zf_xiaoni	0.55	noise-free-sound-0209.wav	21.1
+MIX115	mixed_tts/MIX115.wav	3.144	这个 HDMI 线太短了	tts	edge-tts	zh-CN-YunjianNeural	0.32	noise-free-sound-0415.wav	20.3
+MIX116	mixed_tts/MIX116.wav	2.296	我们在 B 站上直播	tts	kokoro-v1.0	zm_yunxia	0.32	noise-free-sound-0093.wav	18.3
+MIX117	mixed_tts/MIX117.wav	2.784	这个 up 主更新好快	tts	edge-tts	zh-CN-XiaoyiNeural	0.32	noise-free-sound-0700.wav	23.6
+MIX118	mixed_tts/MIX118.wav	1.796	一键三连支持一下 up 主	tts	kokoro-v1.0	zm_yunyang	0.55	noise-free-sound-0653.wav	15.9
+MIX119	mixed_tts/MIX119.wav	2.592	他的 ID 是一串数字	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.48	noise-sound-bible-0077.wav	17.2
+MIX120	mixed_tts/MIX120.wav	2.840	这个 VPN 连不上	tts	kokoro-v1.0	zf_xiaobei	0.51	noise-free-sound-0795.wav	17.1
+MIX121	mixed_tts/MIX121.wav	2.376	我昨天买了一台 Mac	tts	edge-tts	zh-CN-YunxiNeural	0.45	noise-free-sound-0116.wav	15.3
+MIX122	mixed_tts/MIX122.wav	2.142	这个 emoji 好可爱	tts	kokoro-v1.0	zf_xiaoni	0.30	noise-free-sound-0541.wav	21.1
+MIX123	mixed_tts/MIX123.wav	2.088	大家把 like 点起来	tts	edge-tts	zh-CN-YunjianNeural	0.38	noise-free-sound-0575.wav	16.8
+MIX124	mixed_tts/MIX124.wav	1.409	我们来 battle 一下	tts	kokoro-v1.0	zm_yunxia	0.37	noise-free-sound-0122.wav	21.6
+MIX125	mixed_tts/MIX125.wav	2.352	这个 trick 很实用	tts	edge-tts	zh-CN-XiaoyiNeural	0.47	noise-free-sound-0114.wav	22.5
+MIX126	mixed_tts/MIX126.wav	1.257	我的 account 被盗了	tts	kokoro-v1.0	zm_yunyang	0.31	noise-free-sound-0255.wav	16.4
+MIX127	mixed_tts/MIX127.wav	2.424	请输入你的 password	tts	edge-tts	zh-CN-XiaoxiaoNeural	0.45	noise-sound-bible-0055.wav	20.2
+MIX128	mixed_tts/MIX128.wav	2.944	这个 game 我通关三次了	tts	kokoro-v1.0	zf_xiaobei	0.36	noise-free-sound-0324.wav	17.3
+MIX129	mixed_tts/MIX129.wav	2.856	你玩过这个 RPG 吗	tts	edge-tts	zh-CN-YunxiNeural	0.50	noise-free-sound-0517.wav	21.5
+MIX130	mixed_tts/MIX130.wav	1.554	好了，bye bye 大家	tts	kokoro-v1.0	zf_xiaoni	0.42	noise-free-sound-0378.wav	25.0
