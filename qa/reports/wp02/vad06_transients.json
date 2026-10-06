@@ -1,0 +1,2528 @@
+{
+ "summary": {
+  "n": 200,
+  "false_trigger_rate": 0.075,
+  "threshold": 0.05,
+  "by_kind": {
+   "click": {
+    "n": 40,
+    "vad": 0,
+    "after_min_len": 0,
+    "punct_only": 0,
+    "triggered": 0
+   },
+   "keyboard": {
+    "n": 60,
+    "vad": 0,
+    "after_min_len": 0,
+    "punct_only": 0,
+    "triggered": 0
+   },
+   "musan": {
+    "n": 100,
+    "vad": 29,
+    "after_min_len": 24,
+    "punct_only": 9,
+    "triggered": 15
+   }
+  }
+ },
+ "samples": [
+  {
+   "kind": "click",
+   "idx": 0,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 1,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 2,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 3,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 4,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 5,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 6,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 7,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 8,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 9,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 10,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 11,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 12,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 13,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 14,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 15,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 16,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 17,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 18,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 19,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 20,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 21,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 22,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 23,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 24,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 25,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 26,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 27,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 28,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 29,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 30,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 31,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 32,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 33,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 34,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 35,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 36,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 37,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 38,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "click",
+   "idx": 39,
+   "src": "synthetic",
+   "event_s": 0.005,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 40,
+   "src": "synthetic",
+   "event_s": 0.332,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 41,
+   "src": "synthetic",
+   "event_s": 0.606,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 42,
+   "src": "synthetic",
+   "event_s": 0.405,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 43,
+   "src": "synthetic",
+   "event_s": 0.416,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 44,
+   "src": "synthetic",
+   "event_s": 0.765,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 45,
+   "src": "synthetic",
+   "event_s": 0.561,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 46,
+   "src": "synthetic",
+   "event_s": 0.378,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 47,
+   "src": "synthetic",
+   "event_s": 0.815,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 48,
+   "src": "synthetic",
+   "event_s": 0.168,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 49,
+   "src": "synthetic",
+   "event_s": 0.541,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 50,
+   "src": "synthetic",
+   "event_s": 0.426,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 51,
+   "src": "synthetic",
+   "event_s": 0.333,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 52,
+   "src": "synthetic",
+   "event_s": 0.773,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 53,
+   "src": "synthetic",
+   "event_s": 0.706,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 54,
+   "src": "synthetic",
+   "event_s": 0.824,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 55,
+   "src": "synthetic",
+   "event_s": 0.905,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 56,
+   "src": "synthetic",
+   "event_s": 0.611,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 57,
+   "src": "synthetic",
+   "event_s": 0.178,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 58,
+   "src": "synthetic",
+   "event_s": 0.821,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 59,
+   "src": "synthetic",
+   "event_s": 0.204,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 60,
+   "src": "synthetic",
+   "event_s": 0.389,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 61,
+   "src": "synthetic",
+   "event_s": 0.707,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 62,
+   "src": "synthetic",
+   "event_s": 0.557,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 63,
+   "src": "synthetic",
+   "event_s": 0.696,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 64,
+   "src": "synthetic",
+   "event_s": 0.804,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 65,
+   "src": "synthetic",
+   "event_s": 0.68,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 66,
+   "src": "synthetic",
+   "event_s": 0.936,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 67,
+   "src": "synthetic",
+   "event_s": 0.434,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 68,
+   "src": "synthetic",
+   "event_s": 0.127,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 69,
+   "src": "synthetic",
+   "event_s": 0.39,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 70,
+   "src": "synthetic",
+   "event_s": 0.706,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 71,
+   "src": "synthetic",
+   "event_s": 0.276,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 72,
+   "src": "synthetic",
+   "event_s": 0.403,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 73,
+   "src": "synthetic",
+   "event_s": 0.542,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 74,
+   "src": "synthetic",
+   "event_s": 0.661,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 75,
+   "src": "synthetic",
+   "event_s": 0.734,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 76,
+   "src": "synthetic",
+   "event_s": 0.549,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 77,
+   "src": "synthetic",
+   "event_s": 0.848,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 78,
+   "src": "synthetic",
+   "event_s": 0.652,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 79,
+   "src": "synthetic",
+   "event_s": 0.771,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 80,
+   "src": "synthetic",
+   "event_s": 0.154,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 81,
+   "src": "synthetic",
+   "event_s": 0.237,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 82,
+   "src": "synthetic",
+   "event_s": 0.584,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 83,
+   "src": "synthetic",
+   "event_s": 0.724,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 84,
+   "src": "synthetic",
+   "event_s": 0.402,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 85,
+   "src": "synthetic",
+   "event_s": 0.414,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 86,
+   "src": "synthetic",
+   "event_s": 0.268,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 87,
+   "src": "synthetic",
+   "event_s": 0.177,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 88,
+   "src": "synthetic",
+   "event_s": 0.597,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 89,
+   "src": "synthetic",
+   "event_s": 0.588,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 90,
+   "src": "synthetic",
+   "event_s": 0.122,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 91,
+   "src": "synthetic",
+   "event_s": 0.408,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 92,
+   "src": "synthetic",
+   "event_s": 0.381,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 93,
+   "src": "synthetic",
+   "event_s": 0.658,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 94,
+   "src": "synthetic",
+   "event_s": 0.839,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 95,
+   "src": "synthetic",
+   "event_s": 0.794,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 96,
+   "src": "synthetic",
+   "event_s": 0.376,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 97,
+   "src": "synthetic",
+   "event_s": 0.691,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 98,
+   "src": "synthetic",
+   "event_s": 0.631,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "keyboard",
+   "idx": 99,
+   "src": "synthetic",
+   "event_s": 0.185,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 100,
+   "src": "noise-free-sound-0575@4.19s",
+   "event_s": 0.422,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 101,
+   "src": "noise-sound-bible-0016@4.96s",
+   "event_s": 0.466,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 102,
+   "src": "noise-free-sound-0451@30.17s",
+   "event_s": 0.49,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 103,
+   "src": "noise-free-sound-0356@4.33s",
+   "event_s": 0.434,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 104,
+   "src": "noise-free-sound-0536@0.04s",
+   "event_s": 0.464,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 105,
+   "src": "noise-free-sound-0065@5.98s",
+   "event_s": 0.447,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 106,
+   "src": "noise-sound-bible-0066@0.42s",
+   "event_s": 0.17,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 107,
+   "src": "noise-free-sound-0602@2.06s",
+   "event_s": 0.109,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "一。"
+   ],
+   "koe": [
+    "いー。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 108,
+   "src": "noise-free-sound-0410@0.62s",
+   "event_s": 0.489,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 109,
+   "src": "noise-free-sound-0702@3.26s",
+   "event_s": 0.353,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 110,
+   "src": "noise-free-sound-0261@2.90s",
+   "event_s": 0.457,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 111,
+   "src": "noise-free-sound-0519@19.98s",
+   "event_s": 0.481,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 112,
+   "src": "noise-sound-bible-0069@0.54s",
+   "event_s": 0.226,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 113,
+   "src": "noise-free-sound-0217@0.47s",
+   "event_s": 0.406,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 114,
+   "src": "noise-free-sound-0063@0.54s",
+   "event_s": 0.116,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 115,
+   "src": "noise-free-sound-0191@1.77s",
+   "event_s": 0.333,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 116,
+   "src": "noise-free-sound-0085@0.60s",
+   "event_s": 0.136,
+   "vad_segments": 1,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 117,
+   "src": "noise-free-sound-0792@4.99s",
+   "event_s": 0.384,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 118,
+   "src": "noise-free-sound-0345@2.51s",
+   "event_s": 0.325,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "う。"
+   ],
+   "koe": [
+    "う。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 119,
+   "src": "noise-free-sound-0102@136.84s",
+   "event_s": 0.399,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 120,
+   "src": "noise-sound-bible-0070@0.56s",
+   "event_s": 0.308,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "嗯。"
+   ],
+   "koe": [
+    "ん。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 121,
+   "src": "noise-free-sound-0555@12.65s",
+   "event_s": 0.203,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 122,
+   "src": "noise-free-sound-0403@10.79s",
+   "event_s": 0.419,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "ほら。"
+   ],
+   "koe": [
+    "ほら。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 123,
+   "src": "noise-free-sound-0507@0.08s",
+   "event_s": 0.21,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 124,
+   "src": "noise-free-sound-0159@4.33s",
+   "event_s": 0.115,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 125,
+   "src": "noise-free-sound-0384@118.72s",
+   "event_s": 0.344,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    ".."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 126,
+   "src": "noise-free-sound-0136@0.07s",
+   "event_s": 0.277,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 127,
+   "src": "noise-free-sound-0495@0.01s",
+   "event_s": 0.422,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 128,
+   "src": "noise-free-sound-0647@59.13s",
+   "event_s": 0.105,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 129,
+   "src": "noise-free-sound-0540@0.88s",
+   "event_s": 0.343,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 130,
+   "src": "noise-sound-bible-0039@1.96s",
+   "event_s": 0.114,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 131,
+   "src": "noise-free-sound-0225@4.33s",
+   "event_s": 0.221,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 132,
+   "src": "noise-free-sound-0287@2.16s",
+   "event_s": 0.164,
+   "vad_segments": 1,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 133,
+   "src": "noise-free-sound-0358@16.08s",
+   "event_s": 0.234,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 134,
+   "src": "noise-free-sound-0053@2.92s",
+   "event_s": 0.36,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 135,
+   "src": "noise-free-sound-0050@1.61s",
+   "event_s": 0.297,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 136,
+   "src": "noise-free-sound-0376@3.73s",
+   "event_s": 0.362,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 137,
+   "src": "noise-free-sound-0312@0.55s",
+   "event_s": 0.292,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 138,
+   "src": "noise-free-sound-0020@19.45s",
+   "event_s": 0.22,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 139,
+   "src": "noise-sound-bible-0004@4.21s",
+   "event_s": 0.282,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 140,
+   "src": "noise-free-sound-0351@3.97s",
+   "event_s": 0.488,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 141,
+   "src": "noise-free-sound-0066@33.73s",
+   "event_s": 0.154,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 142,
+   "src": "noise-sound-bible-0035@0.21s",
+   "event_s": 0.202,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 143,
+   "src": "noise-free-sound-0828@53.24s",
+   "event_s": 0.439,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 144,
+   "src": "noise-free-sound-0357@2.10s",
+   "event_s": 0.223,
+   "vad_segments": 1,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 145,
+   "src": "noise-free-sound-0841@0.81s",
+   "event_s": 0.313,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 146,
+   "src": "noise-free-sound-0394@10.59s",
+   "event_s": 0.252,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 147,
+   "src": "noise-sound-bible-0084@1.87s",
+   "event_s": 0.166,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 148,
+   "src": "noise-free-sound-0421@1.66s",
+   "event_s": 0.158,
+   "vad_segments": 1,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 149,
+   "src": "noise-free-sound-0507@0.48s",
+   "event_s": 0.204,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 150,
+   "src": "noise-free-sound-0745@3.95s",
+   "event_s": 0.494,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 151,
+   "src": "noise-free-sound-0129@2.14s",
+   "event_s": 0.328,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 152,
+   "src": "noise-free-sound-0176@2.57s",
+   "event_s": 0.328,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 153,
+   "src": "noise-free-sound-0025@1.35s",
+   "event_s": 0.222,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 154,
+   "src": "noise-free-sound-0544@69.73s",
+   "event_s": 0.375,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 155,
+   "src": "noise-free-sound-0186@2.17s",
+   "event_s": 0.221,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 156,
+   "src": "noise-free-sound-0318@0.00s",
+   "event_s": 0.401,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 157,
+   "src": "noise-sound-bible-0049@18.25s",
+   "event_s": 0.33,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 158,
+   "src": "noise-free-sound-0245@13.22s",
+   "event_s": 0.227,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 159,
+   "src": "noise-free-sound-0168@0.51s",
+   "event_s": 0.129,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 160,
+   "src": "noise-free-sound-0482@7.07s",
+   "event_s": 0.495,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 161,
+   "src": "noise-free-sound-0294@0.74s",
+   "event_s": 0.176,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 162,
+   "src": "noise-sound-bible-0023@1.91s",
+   "event_s": 0.423,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 163,
+   "src": "noise-free-sound-0301@32.23s",
+   "event_s": 0.295,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 164,
+   "src": "noise-free-sound-0160@13.66s",
+   "event_s": 0.164,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 165,
+   "src": "noise-free-sound-0052@4.44s",
+   "event_s": 0.382,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 166,
+   "src": "noise-free-sound-0305@28.45s",
+   "event_s": 0.185,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 167,
+   "src": "noise-free-sound-0075@5.18s",
+   "event_s": 0.491,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 168,
+   "src": "noise-free-sound-0525@0.03s",
+   "event_s": 0.442,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 169,
+   "src": "noise-free-sound-0163@0.03s",
+   "event_s": 0.322,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 170,
+   "src": "noise-free-sound-0344@9.32s",
+   "event_s": 0.48,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 171,
+   "src": "noise-free-sound-0495@10.01s",
+   "event_s": 0.155,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 172,
+   "src": "noise-free-sound-0347@9.75s",
+   "event_s": 0.332,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 173,
+   "src": "noise-free-sound-0337@0.60s",
+   "event_s": 0.359,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 174,
+   "src": "noise-free-sound-0347@7.03s",
+   "event_s": 0.48,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 175,
+   "src": "noise-sound-bible-0067@10.38s",
+   "event_s": 0.266,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 176,
+   "src": "noise-free-sound-0349@0.29s",
+   "event_s": 0.428,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 177,
+   "src": "noise-free-sound-0137@44.38s",
+   "event_s": 0.429,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 178,
+   "src": "noise-free-sound-0237@3.60s",
+   "event_s": 0.135,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 179,
+   "src": "noise-free-sound-0836@10.55s",
+   "event_s": 0.213,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "哦。"
+   ],
+   "koe": [
+    "おー。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 180,
+   "src": "noise-sound-bible-0000@4.25s",
+   "event_s": 0.459,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 181,
+   "src": "noise-free-sound-0398@15.18s",
+   "event_s": 0.499,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 182,
+   "src": "noise-free-sound-0164@7.62s",
+   "event_s": 0.147,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 183,
+   "src": "noise-free-sound-0583@1.12s",
+   "event_s": 0.25,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 184,
+   "src": "noise-sound-bible-0030@12.99s",
+   "event_s": 0.233,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "あ。"
+   ],
+   "koe": [
+    "あ。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 185,
+   "src": "noise-free-sound-0310@7.02s",
+   "event_s": 0.387,
+   "vad_segments": 1,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 186,
+   "src": "noise-free-sound-0332@0.85s",
+   "event_s": 0.27,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 187,
+   "src": "noise-free-sound-0341@20.34s",
+   "event_s": 0.141,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 188,
+   "src": "noise-free-sound-0558@6.85s",
+   "event_s": 0.327,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 189,
+   "src": "noise-free-sound-0183@1.44s",
+   "event_s": 0.113,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 190,
+   "src": "noise-free-sound-0396@0.55s",
+   "event_s": 0.165,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 191,
+   "src": "noise-sound-bible-0060@17.03s",
+   "event_s": 0.12,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 192,
+   "src": "noise-sound-bible-0057@1.06s",
+   "event_s": 0.309,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 193,
+   "src": "noise-free-sound-0612@4.52s",
+   "event_s": 0.459,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 194,
+   "src": "noise-free-sound-0212@0.67s",
+   "event_s": 0.189,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 195,
+   "src": "noise-sound-bible-0075@27.44s",
+   "event_s": 0.359,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "."
+   ],
+   "koe": [
+    "。"
+   ],
+   "punct_only": true,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 196,
+   "src": "noise-free-sound-0693@0.80s",
+   "event_s": 0.397,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 197,
+   "src": "noise-free-sound-0685@14.41s",
+   "event_s": 0.448,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  },
+  {
+   "kind": "musan",
+   "idx": 198,
+   "src": "noise-free-sound-0835@4.42s",
+   "event_s": 0.342,
+   "vad_segments": 0,
+   "after_min_len": 0,
+   "texts": [],
+   "koe": [],
+   "punct_only": false,
+   "triggered": false
+  },
+  {
+   "kind": "musan",
+   "idx": 199,
+   "src": "noise-free-sound-0311@1.73s",
+   "event_s": 0.278,
+   "vad_segments": 1,
+   "after_min_len": 1,
+   "texts": [
+    "Yeah."
+   ],
+   "koe": [
+    "いえあは。"
+   ],
+   "punct_only": false,
+   "triggered": true
+  }
+ ]
+}

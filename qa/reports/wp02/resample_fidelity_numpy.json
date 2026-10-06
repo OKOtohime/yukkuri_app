@@ -1,0 +1,56 @@
+[
+ {
+  "orig_sr": 48000,
+  "freq": 300,
+  "sinad_whole_db": 73.4,
+  "sinad_blockwise_db": 32.9
+ },
+ {
+  "orig_sr": 48000,
+  "freq": 1000,
+  "sinad_whole_db": 62.8,
+  "sinad_blockwise_db": 22.4
+ },
+ {
+  "orig_sr": 48000,
+  "freq": 3000,
+  "sinad_whole_db": 52.1,
+  "sinad_blockwise_db": 12.7
+ },
+ {
+  "orig_sr": 44100,
+  "freq": 300,
+  "sinad_whole_db": 73.4,
+  "sinad_blockwise_db": 33.3
+ },
+ {
+  "orig_sr": 44100,
+  "freq": 1000,
+  "sinad_whole_db": 59.8,
+  "sinad_blockwise_db": 22.8
+ },
+ {
+  "orig_sr": 44100,
+  "freq": 3000,
+  "sinad_whole_db": 42.8,
+  "sinad_blockwise_db": 13.2
+ },
+ {
+  "orig_sr": 32000,
+  "freq": 300,
+  "sinad_whole_db": 75.9,
+  "sinad_blockwise_db": 35.4
+ },
+ {
+  "orig_sr": 32000,
+  "freq": 1000,
+  "sinad_whole_db": 65.4,
+  "sinad_blockwise_db": 24.9
+ },
+ {
+  "orig_sr": 32000,
+  "freq": 3000,
+  "sinad_whole_db": 55.7,
+  "sinad_blockwise_db": 15.1
+ }
+]

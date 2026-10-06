@@ -3,6 +3,8 @@ data/corpora/*
 !data/corpora/README.md
 reports/**/*.wav
 reports/**/junit-*.xml
+reports/**/cov-*.json
+reports/**/*.log
 .coverage
 htmlcov/
 
