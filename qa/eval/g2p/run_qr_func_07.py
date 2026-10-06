@@ -102,10 +102,15 @@ def evaluate(voice="f1", limit=None, items=None):
             p = alphabet.problems(x["koe"])
             cause[p[0][1] if p else "（预判未发现）"] += 1
 
-    failures = [
-        {k: x[k] for k in ("id", "subset", "lang", "text", "koe", "code", "symbol_failure")}
-        for x in nonempty if x["code"] not in (0,)
-    ]
+    # 失败明细：子集 A 全部列出；B/C 各列前 100 条（数量见 per_subset，全部可由固定种子重新生成）
+    failures, shown = [], collections.Counter()
+    for x in nonempty:
+        if x["code"] == 0:
+            continue
+        if x["subset"] != "A" and shown[x["subset"]] >= 100:
+            continue
+        shown[x["subset"]] += 1
+        failures.append({k: x[k] for k in ("id", "subset", "lang", "text", "koe", "code", "symbol_failure")})
     return {
         "requirement": "QR-FUNC-07",
         "platform": platform.platform(),
@@ -120,6 +125,7 @@ def evaluate(voice="f1", limit=None, items=None):
         "failure_cause_first_char": dict(cause.most_common()),
         "l1_predictor_agreement": round(agree / len(nonempty), 6) if nonempty else None,
         "l1_predictor_disagreements": disagreements[:200],
+        "l1_predictor_disagreement_count": len(disagreements),
         "synth_seconds": round(elapsed, 1),
         "failures": failures,
     }

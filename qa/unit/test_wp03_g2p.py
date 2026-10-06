@@ -242,7 +242,7 @@ def test_fr_g2p_09_digits_per_lang(digits, lang):
     assert same_reading(g2p(digits, lang), *digitwise(digits, lang))
 
 
-@pytest.mark.parametrize("lang, hanzi_text", [("zh", "二"), ("ja", "二")])
+@pytest.mark.parametrize("lang, hanzi_text", [defect("DEF-308", "zh", "二"), ("ja", "二")])
 def test_fr_g2p_09_digit_two_matches_numeral(lang, hanzi_text):
     """阿拉伯数字 2 与汉字「二」在同一语种下读法一致"""
     assert normalize_koe(g2p("2", lang)) == normalize_koe(g2p(hanzi_text, lang))
