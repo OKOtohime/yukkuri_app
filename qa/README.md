@@ -39,6 +39,9 @@ YUKKURI_DATA_DIR=~/.cache/yukkuri-qa/appdata-R1 ~/.cache/yukkuri-qa/venv-R1/bin/
 | `data/manifests/mixed_tts.tsv` | `mixed_tts/` | 中英混说 TTS 子集 100 句（edge-tts 和 Kokoro 各 4 个音色，加混响和噪声） |
 | `data/manifests/system_inject.tsv` | 引用上述音频 | 系统测试注入集 115 条（三语 1~6s 共 100 条、> 8s 长句 10 条、纯噪声 5 条） |
 | `data/mixed_zh_en_script.tsv` | `mixed_real/`（待录制） | 混说脚本 130 句：MIX001~030 由真人录制，MIX031~130 用于 TTS |
+| `data/g2p_golden.csv` | — | G2P 黄金集 215 条（WP-03，测试负责人评审定稿）；中文期望写拼音，经映射表展开 |
+| `data/tgscc_level1.txt` | — | 《通用规范汉字表》一级字 3500 字（QR-FUNC-06） |
+| `data/aquestalk_alphabet.json` | — | AquesTalk 接受符号表（`eval/g2p/probe_alphabet.py` 在 R1 实测生成，L1 预判用） |
 
 所有音频均为 16kHz 单声道 PCM16，由 ffmpeg 转换（不使用被测代码的重采样器）。
 原始下载和工具缓存在 `~/.cache/yukkuri-qa/`（`raw/`、`corpora/`、`tts/`、`ttsenv/`、`win/`）。
@@ -51,3 +54,5 @@ YUKKURI_DATA_DIR=~/.cache/yukkuri-qa/appdata-R1 ~/.cache/yukkuri-qa/venv-R1/bin/
 - 编号按 WP 分段，避免并行会话冲突：WP-nn 的缺陷用 DEF-nn1 起，观察项用 OBS-nn1 起（WP-02：DEF-201、OBS-201）
 - 已登记缺陷的用例用 `xfail(strict=True, raises=AssertionError, reason="DEF-xxx")` 标注，缺陷修复后会 XPASS 并让套件失败
 - WP-02 的测量产物在 `reports/wp02/`；QR-MNT 工具：`eval/mnt/run_upstream_clean.py`（干净环境跑上游单测）、`eval/mnt/coverage_scope.py`（按需求口径统计覆盖率）
+- WP-03 的测量产物在 `reports/wp03/`；G2P 工具在 `eval/g2p/`：`run_qr_func_07.py`（QR-FUNC-07 全量评测）、`fuzz_corpus.py`（固定种子模糊语料）、`aqtk_worker.py`/`aqtk_client.py`（子进程合成，崩溃可定位）、`probe_alphabet.py`
+- AquesTalk 错误码在 Windows 评价版 DLL 上语义不同：未定义记号写回 1 起算字节位置而不是 105，判定合成失败原因时不要只看返回码（见 DEF-301）

@@ -55,6 +55,7 @@ def test_qr_func_06_level1_in_sentence(level1):
     assert bad == []
 
 
+@pytest.mark.xfail(strict=True, raises=AssertionError, reason="DEF-309")
 def test_qr_func_08_golden_set():
     """黄金集一致率 ≥ 95%（QR-FUNC-08，S 级）；按类别统计"""
     rows = load_golden()
