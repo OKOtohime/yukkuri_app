@@ -47,3 +47,5 @@ tmp/
 .env
 .env.*
 .env.local
+
+uv.lock
